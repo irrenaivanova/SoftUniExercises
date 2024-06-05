@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.WildFarm\\04.WildFarm.csproj",
+      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.WildFarm\\04.WildFarm.csproj",
       "projectName": "04.WildFarm",
-      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.WildFarm\\04.WildFarm.csproj",
+      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.WildFarm\\04.WildFarm.csproj",
       "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.WildFarm\\obj\\",
+      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.WildFarm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",

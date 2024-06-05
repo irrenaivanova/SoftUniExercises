@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\01.Vehicles.csproj",
+      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\01.Vehicles.csproj",
       "projectName": "01.Vehicles",
-      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\01.Vehicles.csproj",
+      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\01.Vehicles.csproj",
       "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\obj\\",
+      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\04.Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",

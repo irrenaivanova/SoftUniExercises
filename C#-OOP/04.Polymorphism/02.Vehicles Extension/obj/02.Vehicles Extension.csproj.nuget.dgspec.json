@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj": {}
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj": {
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj",
+        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj",
         "projectName": "02.Vehicles Extension",
-        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj",
+        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\02.Vehicles Extension.csproj",
         "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\obj\\",
+        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\02.Vehicles Extension\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",

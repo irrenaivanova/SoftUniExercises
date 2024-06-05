@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\00\\00.csproj": {}
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\00\\00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\00\\00.csproj": {
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\00\\00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\00\\00.csproj",
+        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\00\\00.csproj",
         "projectName": "00",
-        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\00\\00.csproj",
+        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\00\\00.csproj",
         "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-OOP\\04.Polymorphism\\00\\obj\\",
+        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\04.Polymorphism\\00\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
