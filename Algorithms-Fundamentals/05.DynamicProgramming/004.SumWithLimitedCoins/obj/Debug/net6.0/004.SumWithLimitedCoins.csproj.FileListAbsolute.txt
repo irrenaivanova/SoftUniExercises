@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\bin\Debug\net6.0\004.SumWithLimitedCoins.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\bin\Debug\net6.0\004.SumWithLimitedCoins.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\bin\Debug\net6.0\004.SumWithLimitedCoins.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\bin\Debug\net6.0\004.SumWithLimitedCoins.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\bin\Debug\net6.0\004.SumWithLimitedCoins.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\refint\004.SumWithLimitedCoins.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\004.SumWithLimitedCoins.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\004.SumWithLimitedCoins\obj\Debug\net6.0\ref\004.SumWithLimitedCoins.dll

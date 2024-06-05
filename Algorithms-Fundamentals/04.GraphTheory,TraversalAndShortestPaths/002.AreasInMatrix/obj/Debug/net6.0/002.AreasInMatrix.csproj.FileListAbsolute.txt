@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\bin\Debug\net6.0\002.AreasInMatrix.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\bin\Debug\net6.0\002.AreasInMatrix.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\bin\Debug\net6.0\002.AreasInMatrix.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\bin\Debug\net6.0\002.AreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\bin\Debug\net6.0\002.AreasInMatrix.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\refint\002.AreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\002.AreasInMatrix.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\002.AreasInMatrix\obj\Debug\net6.0\ref\002.AreasInMatrix.dll

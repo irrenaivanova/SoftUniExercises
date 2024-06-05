@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\bin\Debug\net6.0\01.Box.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\bin\Debug\net6.0\01.Box.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\bin\Debug\net6.0\01.Box.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\bin\Debug\net6.0\01.Box.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\bin\Debug\net6.0\01.Box.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\refint\01.Box.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\01.Box.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\08.Generics\obj\Debug\net6.0\ref\01.Box.dll

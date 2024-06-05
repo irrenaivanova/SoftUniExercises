@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\bin\Debug\net6.0\00.ListOfCombinations.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\bin\Debug\net6.0\00.ListOfCombinations.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\bin\Debug\net6.0\00.ListOfCombinations.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\bin\Debug\net6.0\00.ListOfCombinations.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\bin\Debug\net6.0\00.ListOfCombinations.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\refint\00.ListOfCombinations.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\00.ListOfCombinations.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\4s.Words\obj\Debug\net6.0\ref\00.ListOfCombinations.dll

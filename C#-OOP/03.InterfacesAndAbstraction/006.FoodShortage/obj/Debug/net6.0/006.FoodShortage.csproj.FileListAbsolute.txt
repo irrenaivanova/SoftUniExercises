@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\bin\Debug\net6.0\006.FoodShortage.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\bin\Debug\net6.0\006.FoodShortage.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\bin\Debug\net6.0\006.FoodShortage.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\bin\Debug\net6.0\006.FoodShortage.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\bin\Debug\net6.0\006.FoodShortage.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\refint\006.FoodShortage.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\006.FoodShortage.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\006.FoodShortage\obj\Debug\net6.0\ref\006.FoodShortage.dll

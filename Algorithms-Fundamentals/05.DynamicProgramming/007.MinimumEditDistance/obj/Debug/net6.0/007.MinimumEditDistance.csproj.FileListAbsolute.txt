@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\bin\Debug\net6.0\007.MinimumEditDistance.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\bin\Debug\net6.0\007.MinimumEditDistance.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\bin\Debug\net6.0\007.MinimumEditDistance.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\bin\Debug\net6.0\007.MinimumEditDistance.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\bin\Debug\net6.0\007.MinimumEditDistance.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\refint\007.MinimumEditDistance.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\007.MinimumEditDistance.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\007.MinimumEditDistance\obj\Debug\net6.0\ref\007.MinimumEditDistance.dll

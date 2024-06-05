@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\bin\Debug\net6.0\005.SchoolTeams.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\bin\Debug\net6.0\005.SchoolTeams.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\bin\Debug\net6.0\005.SchoolTeams.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\bin\Debug\net6.0\005.SchoolTeams.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\bin\Debug\net6.0\005.SchoolTeams.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\refint\005.SchoolTeams.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\005.SchoolTeams.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\005.SchoolTeams\obj\Debug\net6.0\ref\005.SchoolTeams.dll

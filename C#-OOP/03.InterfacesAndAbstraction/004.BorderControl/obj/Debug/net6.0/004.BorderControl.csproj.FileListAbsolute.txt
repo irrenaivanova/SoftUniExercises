@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\bin\Debug\net6.0\004.BorderControl.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\bin\Debug\net6.0\004.BorderControl.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\bin\Debug\net6.0\004.BorderControl.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\bin\Debug\net6.0\004.BorderControl.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\bin\Debug\net6.0\004.BorderControl.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\refint\004.BorderControl.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\004.BorderControl.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\004.BorderControl\obj\Debug\net6.0\ref\004.BorderControl.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\bin\Debug\net6.0\02a.ForRecursion.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\bin\Debug\net6.0\02a.ForRecursion.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\bin\Debug\net6.0\02a.ForRecursion.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\bin\Debug\net6.0\02a.ForRecursion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\bin\Debug\net6.0\02a.ForRecursion.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\refint\02a.ForRecursion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\02a.ForRecursion.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\02a.Fibonachi\obj\Debug\net6.0\ref\02a.ForRecursion.dll

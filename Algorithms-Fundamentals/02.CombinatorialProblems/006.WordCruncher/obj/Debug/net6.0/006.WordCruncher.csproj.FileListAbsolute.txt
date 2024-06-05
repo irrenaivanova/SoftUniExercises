@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\bin\Debug\net6.0\006.WordCruncher.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\bin\Debug\net6.0\006.WordCruncher.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\bin\Debug\net6.0\006.WordCruncher.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\bin\Debug\net6.0\006.WordCruncher.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\bin\Debug\net6.0\006.WordCruncher.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\refint\006.WordCruncher.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\006.WordCruncher.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\006.WordCruncher\obj\Debug\net6.0\ref\006.WordCruncher.dll

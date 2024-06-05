@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\bin\Debug\net6.0\0010.SoftUniParking.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\bin\Debug\net6.0\0010.SoftUniParking.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\bin\Debug\net6.0\0010.SoftUniParking.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\bin\Debug\net6.0\0010.SoftUniParking.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\bin\Debug\net6.0\0010.SoftUniParking.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\refint\0010.SoftUniParking.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\0010.SoftUniParking.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\010.SoftUniParking\obj\Debug\net6.0\ref\0010.SoftUniParking.dll

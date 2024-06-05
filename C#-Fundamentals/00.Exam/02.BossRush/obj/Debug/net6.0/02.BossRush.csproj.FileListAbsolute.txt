@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\bin\Debug\net6.0\02.BossRush.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\bin\Debug\net6.0\02.BossRush.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\bin\Debug\net6.0\02.BossRush.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\bin\Debug\net6.0\02.BossRush.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\bin\Debug\net6.0\02.BossRush.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\refint\02.BossRush.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\02.BossRush.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\02.BossRush\obj\Debug\net6.0\ref\02.BossRush.dll

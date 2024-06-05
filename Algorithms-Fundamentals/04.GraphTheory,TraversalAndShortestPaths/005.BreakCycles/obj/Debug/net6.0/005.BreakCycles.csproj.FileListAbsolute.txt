@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\bin\Debug\net6.0\005.BreakCycles.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\bin\Debug\net6.0\005.BreakCycles.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\bin\Debug\net6.0\005.BreakCycles.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\bin\Debug\net6.0\005.BreakCycles.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\bin\Debug\net6.0\005.BreakCycles.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\refint\005.BreakCycles.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\005.BreakCycles.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\005.BreakCycles\obj\Debug\net6.0\ref\005.BreakCycles.dll

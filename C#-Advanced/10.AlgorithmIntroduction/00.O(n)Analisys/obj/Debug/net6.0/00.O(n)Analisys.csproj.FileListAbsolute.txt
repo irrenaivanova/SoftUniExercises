@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\bin\Debug\net6.0\00.O(n)Analisys.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\bin\Debug\net6.0\00.O(n)Analisys.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\bin\Debug\net6.0\00.O(n)Analisys.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\bin\Debug\net6.0\00.O(n)Analisys.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\bin\Debug\net6.0\00.O(n)Analisys.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\refint\00.O(n)Analisys.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\00.O(n)Analisys.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\00.O(n)Analisys\obj\Debug\net6.0\ref\00.O(n)Analisys.dll

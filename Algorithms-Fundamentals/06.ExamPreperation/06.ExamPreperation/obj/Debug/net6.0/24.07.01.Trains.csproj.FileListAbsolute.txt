@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\bin\Debug\net6.0\24.07.01.Trains.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\bin\Debug\net6.0\24.07.01.Trains.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\bin\Debug\net6.0\24.07.01.Trains.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\bin\Debug\net6.0\24.07.01.Trains.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\bin\Debug\net6.0\24.07.01.Trains.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\refint\24.07.01.Trains.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\24.07.01.Trains.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\06.ExamPreperation\obj\Debug\net6.0\ref\24.07.01.Trains.dll

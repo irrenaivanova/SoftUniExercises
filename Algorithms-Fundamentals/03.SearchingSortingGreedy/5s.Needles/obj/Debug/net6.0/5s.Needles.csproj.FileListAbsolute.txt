@@ -1,0 +1,4 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\5s.Needles\obj\Debug\net6.0\5s.Needles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\5s.Needles\obj\Debug\net6.0\5s.Needles.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\5s.Needles\obj\Debug\net6.0\5s.Needles.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\5s.Needles\obj\Debug\net6.0\5s.Needles.csproj.CoreCompileInputs.cache

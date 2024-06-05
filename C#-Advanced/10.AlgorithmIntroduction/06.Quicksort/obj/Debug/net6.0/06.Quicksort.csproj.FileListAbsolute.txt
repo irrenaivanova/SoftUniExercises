@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\bin\Debug\net6.0\06.Quicksort.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\bin\Debug\net6.0\06.Quicksort.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\bin\Debug\net6.0\06.Quicksort.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\bin\Debug\net6.0\06.Quicksort.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\bin\Debug\net6.0\06.Quicksort.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\refint\06.Quicksort.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\06.Quicksort.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\06.Quicksort\obj\Debug\net6.0\ref\06.Quicksort.dll

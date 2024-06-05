@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\bin\Debug\net6.0\003.ConnectedAreasInMatrix.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\bin\Debug\net6.0\003.ConnectedAreasInMatrix.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\bin\Debug\net6.0\003.ConnectedAreasInMatrix.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\bin\Debug\net6.0\003.ConnectedAreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\bin\Debug\net6.0\003.ConnectedAreasInMatrix.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\refint\003.ConnectedAreasInMatrix.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\003.ConnectedAreasInMatrix.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\003.ConnectedAreasInMatrix\obj\Debug\net6.0\ref\003.ConnectedAreasInMatrix.dll

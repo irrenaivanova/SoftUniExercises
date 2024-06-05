@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\net6.0\03.Generating01Vectors.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\net6.0\03.Generating01Vectors.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\net6.0\03.Generating01Vectors.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\net6.0\03.Generating01Vectors.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\bin\Debug\net6.0\03.Generating01Vectors.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\refint\03.Generating01Vectors.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\03.Generating01Vectors.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\03.Generating01Vectors\obj\Debug\net6.0\ref\03.Generating01Vectors.dll

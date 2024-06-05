@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\bin\Debug\net6.0\01.BubbleSort.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\bin\Debug\net6.0\01.BubbleSort.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\bin\Debug\net6.0\01.BubbleSort.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\bin\Debug\net6.0\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\bin\Debug\net6.0\01.BubbleSort.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\refint\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\01.BubbleSort.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\01.BubbleSearch\obj\Debug\net6.0\ref\01.BubbleSort.dll

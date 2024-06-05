@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\bin\Debug\net6.0\00.Calculator.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\bin\Debug\net6.0\00.Calculator.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\bin\Debug\net6.0\00.Calculator.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\bin\Debug\net6.0\00.Calculator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\bin\Debug\net6.0\00.Calculator.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\refint\00.Calculator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\00.Calculator.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\00.Calculator\obj\Debug\net6.0\ref\00.Calculator.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\bin\Debug\net6.0\CostumHashTag.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\bin\Debug\net6.0\CostumHashTag.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\bin\Debug\net6.0\CostumHashTag.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\bin\Debug\net6.0\CostumHashTag.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\bin\Debug\net6.0\CostumHashTag.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\refint\CostumHashTag.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\CostumHashTag.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumHashTag\obj\Debug\net6.0\ref\CostumHashTag.dll

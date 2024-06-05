@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\bin\Debug\net6.0\23232.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\bin\Debug\net6.0\23232.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\bin\Debug\net6.0\23232.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\bin\Debug\net6.0\23232.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\bin\Debug\net6.0\23232.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\refint\23232.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\23232.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\23232\obj\Debug\net6.0\ref\23232.dll

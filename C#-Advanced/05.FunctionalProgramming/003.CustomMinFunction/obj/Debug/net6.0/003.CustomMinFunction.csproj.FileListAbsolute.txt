@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\bin\Debug\net6.0\003.CustomMinFunction.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\bin\Debug\net6.0\003.CustomMinFunction.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\bin\Debug\net6.0\003.CustomMinFunction.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\bin\Debug\net6.0\003.CustomMinFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\bin\Debug\net6.0\003.CustomMinFunction.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\refint\003.CustomMinFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\003.CustomMinFunction.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\003.CustomMinFunction\obj\Debug\net6.0\ref\003.CustomMinFunction.dll

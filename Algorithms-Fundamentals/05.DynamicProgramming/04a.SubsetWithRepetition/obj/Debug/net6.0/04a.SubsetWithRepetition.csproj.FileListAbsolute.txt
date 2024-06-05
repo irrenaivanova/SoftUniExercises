@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\bin\Debug\net6.0\04a.SubsetWithRepetition.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\bin\Debug\net6.0\04a.SubsetWithRepetition.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\bin\Debug\net6.0\04a.SubsetWithRepetition.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\bin\Debug\net6.0\04a.SubsetWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\bin\Debug\net6.0\04a.SubsetWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\refint\04a.SubsetWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\04a.SubsetWithRepetition.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04a.SubsetWithRepetition\obj\Debug\net6.0\ref\04a.SubsetWithRepetition.dll

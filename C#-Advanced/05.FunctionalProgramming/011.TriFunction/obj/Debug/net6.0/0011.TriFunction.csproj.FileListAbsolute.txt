@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\bin\Debug\net6.0\0011.TriFunction.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\bin\Debug\net6.0\0011.TriFunction.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\bin\Debug\net6.0\0011.TriFunction.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\bin\Debug\net6.0\0011.TriFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\bin\Debug\net6.0\0011.TriFunction.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\refint\0011.TriFunction.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\0011.TriFunction.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\011.TriFunction\obj\Debug\net6.0\ref\0011.TriFunction.dll

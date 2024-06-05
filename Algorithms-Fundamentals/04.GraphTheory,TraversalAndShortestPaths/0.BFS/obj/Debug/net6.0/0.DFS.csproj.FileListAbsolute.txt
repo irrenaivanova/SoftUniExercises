@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\bin\Debug\net6.0\0.DFS.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\bin\Debug\net6.0\0.DFS.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\bin\Debug\net6.0\0.DFS.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\bin\Debug\net6.0\0.DFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\bin\Debug\net6.0\0.DFS.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\refint\0.DFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\0.DFS.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\0.BFS\obj\Debug\net6.0\ref\0.DFS.dll

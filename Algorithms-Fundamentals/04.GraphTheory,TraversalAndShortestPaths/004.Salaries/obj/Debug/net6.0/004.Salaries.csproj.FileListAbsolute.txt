@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\bin\Debug\net6.0\004.Salaries.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\bin\Debug\net6.0\004.Salaries.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\bin\Debug\net6.0\004.Salaries.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\bin\Debug\net6.0\004.Salaries.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\bin\Debug\net6.0\004.Salaries.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\refint\004.Salaries.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\004.Salaries.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\004.Salaries\obj\Debug\net6.0\ref\004.Salaries.dll

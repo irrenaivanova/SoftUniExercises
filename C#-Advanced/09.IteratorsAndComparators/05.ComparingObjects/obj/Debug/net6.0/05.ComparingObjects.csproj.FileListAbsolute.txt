@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\bin\Debug\net6.0\05.ComparingObjects.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\refint\05.ComparingObjects.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\05.ComparingObjects.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\05.ComparingObjects\obj\Debug\net6.0\ref\05.ComparingObjects.dll

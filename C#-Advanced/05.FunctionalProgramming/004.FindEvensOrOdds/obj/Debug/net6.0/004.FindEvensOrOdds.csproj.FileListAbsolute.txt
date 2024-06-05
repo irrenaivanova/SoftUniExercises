@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\bin\Debug\net6.0\004.FindEvensOrOdds.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\bin\Debug\net6.0\004.FindEvensOrOdds.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\bin\Debug\net6.0\004.FindEvensOrOdds.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\bin\Debug\net6.0\004.FindEvensOrOdds.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\bin\Debug\net6.0\004.FindEvensOrOdds.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\refint\004.FindEvensOrOdds.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\004.FindEvensOrOdds.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\004.FindEvensOrOdds\obj\Debug\net6.0\ref\004.FindEvensOrOdds.dll

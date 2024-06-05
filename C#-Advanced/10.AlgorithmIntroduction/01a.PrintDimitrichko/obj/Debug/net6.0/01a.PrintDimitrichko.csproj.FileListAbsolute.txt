@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\bin\Debug\net6.0\01a.PrintDimitrichko.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\bin\Debug\net6.0\01a.PrintDimitrichko.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\bin\Debug\net6.0\01a.PrintDimitrichko.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\bin\Debug\net6.0\01a.PrintDimitrichko.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\bin\Debug\net6.0\01a.PrintDimitrichko.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\refint\01a.PrintDimitrichko.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\01a.PrintDimitrichko.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01a.PrintDimitrichko\obj\Debug\net6.0\ref\01a.PrintDimitrichko.dll

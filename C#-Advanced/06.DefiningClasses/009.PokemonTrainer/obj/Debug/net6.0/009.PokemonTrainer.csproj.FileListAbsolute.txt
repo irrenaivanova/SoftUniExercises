@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\bin\Debug\net6.0\009.PokemonTrainer.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\bin\Debug\net6.0\009.PokemonTrainer.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\bin\Debug\net6.0\009.PokemonTrainer.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\bin\Debug\net6.0\009.PokemonTrainer.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\bin\Debug\net6.0\009.PokemonTrainer.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\refint\009.PokemonTrainer.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\009.PokemonTrainer.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\009.PokemonTrainer\obj\Debug\net6.0\ref\009.PokemonTrainer.dll

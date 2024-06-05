@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\bin\Debug\net6.0\001.ReverseArray.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\bin\Debug\net6.0\001.ReverseArray.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\bin\Debug\net6.0\001.ReverseArray.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\bin\Debug\net6.0\001.ReverseArray.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\bin\Debug\net6.0\001.ReverseArray.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\refint\001.ReverseArray.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\001.ReverseArray.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\001.ReverseArray\obj\Debug\net6.0\ref\001.ReverseArray.dll

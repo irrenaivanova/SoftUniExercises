@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\refint\05.SpecialCars.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\05.SpecialCars\obj\Debug\net6.0\ref\05.SpecialCars.dll

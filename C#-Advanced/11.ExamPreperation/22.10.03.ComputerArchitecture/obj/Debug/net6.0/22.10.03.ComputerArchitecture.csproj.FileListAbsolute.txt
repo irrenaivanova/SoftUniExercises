@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\bin\Debug\net6.0\22.10.03.ComputerArchitecture.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\bin\Debug\net6.0\22.10.03.ComputerArchitecture.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\bin\Debug\net6.0\22.10.03.ComputerArchitecture.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\bin\Debug\net6.0\22.10.03.ComputerArchitecture.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\bin\Debug\net6.0\22.10.03.ComputerArchitecture.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\refint\22.10.03.ComputerArchitecture.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\22.10.03.ComputerArchitecture.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.ExamPreperation\22.10.03.ComputerArchitecture\obj\Debug\net6.0\ref\22.10.03.ComputerArchitecture.dll

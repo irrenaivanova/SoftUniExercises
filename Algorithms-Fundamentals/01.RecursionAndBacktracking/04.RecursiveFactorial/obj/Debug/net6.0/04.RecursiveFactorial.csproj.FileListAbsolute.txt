@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\net6.0\04.RecursiveFactorial.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\net6.0\04.RecursiveFactorial.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\net6.0\04.RecursiveFactorial.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\net6.0\04.RecursiveFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\bin\Debug\net6.0\04.RecursiveFactorial.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\refint\04.RecursiveFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\04.RecursiveFactorial.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\04.RecursiveFactorial\obj\Debug\net6.0\ref\04.RecursiveFactorial.dll

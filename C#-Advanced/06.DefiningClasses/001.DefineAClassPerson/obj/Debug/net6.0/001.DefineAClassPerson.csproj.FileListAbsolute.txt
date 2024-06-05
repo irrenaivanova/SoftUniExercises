@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\bin\Debug\net6.0\001.DefineAClassPerson.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\bin\Debug\net6.0\001.DefineAClassPerson.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\bin\Debug\net6.0\001.DefineAClassPerson.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\bin\Debug\net6.0\001.DefineAClassPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\bin\Debug\net6.0\001.DefineAClassPerson.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\refint\001.DefineAClassPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\001.DefineAClassPerson.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\001.DefineAClassPerson\obj\Debug\net6.0\ref\001.DefineAClassPerson.dll

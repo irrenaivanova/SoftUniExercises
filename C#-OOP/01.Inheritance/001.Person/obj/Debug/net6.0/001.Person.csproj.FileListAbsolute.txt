@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\bin\Debug\net6.0\001.Person.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\bin\Debug\net6.0\001.Person.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\bin\Debug\net6.0\001.Person.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\bin\Debug\net6.0\001.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\bin\Debug\net6.0\001.Person.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\refint\001.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\001.Person.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\001.Person\obj\Debug\net6.0\ref\001.Person.dll

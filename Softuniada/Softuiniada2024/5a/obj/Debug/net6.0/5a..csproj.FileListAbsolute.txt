@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\bin\Debug\net6.0\5a..exe
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\bin\Debug\net6.0\5a..deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\bin\Debug\net6.0\5a..runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\bin\Debug\net6.0\5a..dll
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\bin\Debug\net6.0\5a..pdb
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..dll
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\refint\5a..dll
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..pdb
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\5a..genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Softuniada\Softuiniada2024\5a\obj\Debug\net6.0\ref\5a..dll

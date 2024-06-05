@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\bin\Debug\net6.0\004a.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\bin\Debug\net6.0\004a.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\bin\Debug\net6.0\004a.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\bin\Debug\net6.0\004a.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\bin\Debug\net6.0\004a.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\refint\004a.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\004a.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\04a\obj\Debug\net6.0\ref\004a.dll

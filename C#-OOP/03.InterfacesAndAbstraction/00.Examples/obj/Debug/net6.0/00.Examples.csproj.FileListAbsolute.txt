@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\bin\Debug\net6.0\00.Examples.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\bin\Debug\net6.0\00.Examples.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\bin\Debug\net6.0\00.Examples.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\bin\Debug\net6.0\00.Examples.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\bin\Debug\net6.0\00.Examples.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\refint\00.Examples.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\00.Examples.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\00.Examples\obj\Debug\net6.0\ref\00.Examples.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\bin\Debug\net6.0\08.CostumLinkedList.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\bin\Debug\net6.0\08.CostumLinkedList.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\bin\Debug\net6.0\08.CostumLinkedList.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\bin\Debug\net6.0\08.CostumLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\bin\Debug\net6.0\08.CostumLinkedList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\refint\08.CostumLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\08.CostumLinkedList.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\08.CostumLinkedList\obj\Debug\net6.0\ref\08.CostumLinkedList.dll

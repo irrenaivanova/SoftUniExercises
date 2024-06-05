@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\bin\Debug\net6.0\07.BinarySearch.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\bin\Debug\net6.0\07.BinarySearch.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\bin\Debug\net6.0\07.BinarySearch.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\bin\Debug\net6.0\07.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\bin\Debug\net6.0\07.BinarySearch.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\refint\07.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\07.BinarySearch.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\07.BinarySearch\obj\Debug\net6.0\ref\07.BinarySearch.dll

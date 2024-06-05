@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\bin\Debug\net6.0\007.PredicateForNames.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\bin\Debug\net6.0\007.PredicateForNames.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\bin\Debug\net6.0\007.PredicateForNames.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\bin\Debug\net6.0\007.PredicateForNames.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\bin\Debug\net6.0\007.PredicateForNames.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\refint\007.PredicateForNames.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\007.PredicateForNames.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\007.PredicateForNames\obj\Debug\net6.0\ref\007.PredicateForNames.dll

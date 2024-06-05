@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\bin\Debug\net6.0\07.RecursiveFibonacci.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\bin\Debug\net6.0\07.RecursiveFibonacci.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\bin\Debug\net6.0\07.RecursiveFibonacci.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\bin\Debug\net6.0\07.RecursiveFibonacci.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\bin\Debug\net6.0\07.RecursiveFibonacci.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\refint\07.RecursiveFibonacci.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\07.RecursiveFibonacci.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\07.RecursiveFibonacci\obj\Debug\net6.0\ref\07.RecursiveFibonacci.dll

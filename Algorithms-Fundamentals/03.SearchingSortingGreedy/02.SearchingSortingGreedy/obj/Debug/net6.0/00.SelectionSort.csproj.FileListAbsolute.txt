@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\bin\Debug\net6.0\00.SelectionSort.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\bin\Debug\net6.0\00.SelectionSort.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\bin\Debug\net6.0\00.SelectionSort.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\bin\Debug\net6.0\00.SelectionSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\bin\Debug\net6.0\00.SelectionSort.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\refint\00.SelectionSort.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\00.SelectionSort.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\02.SearchingSortingGreedy\obj\Debug\net6.0\ref\00.SelectionSort.dll

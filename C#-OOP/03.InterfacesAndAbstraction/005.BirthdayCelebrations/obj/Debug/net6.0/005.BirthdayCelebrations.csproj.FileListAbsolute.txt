@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\bin\Debug\net6.0\005.BirthdayCelebrations.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\bin\Debug\net6.0\005.BirthdayCelebrations.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\bin\Debug\net6.0\005.BirthdayCelebrations.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\bin\Debug\net6.0\005.BirthdayCelebrations.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\bin\Debug\net6.0\005.BirthdayCelebrations.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\refint\005.BirthdayCelebrations.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\005.BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\005.BirthdayCelebrations\obj\Debug\net6.0\ref\005.BirthdayCelebrations.dll

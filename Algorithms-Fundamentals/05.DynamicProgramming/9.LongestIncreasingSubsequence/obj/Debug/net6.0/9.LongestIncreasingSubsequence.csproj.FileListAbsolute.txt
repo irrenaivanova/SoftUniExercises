@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\bin\Debug\net6.0\9.LongestIncreasingSubsequence.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\bin\Debug\net6.0\9.LongestIncreasingSubsequence.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\bin\Debug\net6.0\9.LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\bin\Debug\net6.0\9.LongestIncreasingSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\bin\Debug\net6.0\9.LongestIncreasingSubsequence.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\refint\9.LongestIncreasingSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\9.LongestIncreasingSubsequence.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\9.LongestIncreasingSubsequence\obj\Debug\net6.0\ref\9.LongestIncreasingSubsequence.dll

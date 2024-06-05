@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\bin\Debug\net6.0\CostumList2.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\bin\Debug\net6.0\CostumList2.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\bin\Debug\net6.0\CostumList2.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\bin\Debug\net6.0\CostumList2.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\bin\Debug\net6.0\CostumList2.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\refint\CostumList2.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\CostumList2.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumList2\obj\Debug\net6.0\ref\CostumList2.dll

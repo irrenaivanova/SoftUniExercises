@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\bin\Debug\net6.0\02a.TopologicalSortingWithBFS.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\bin\Debug\net6.0\02a.TopologicalSortingWithBFS.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\bin\Debug\net6.0\02a.TopologicalSortingWithBFS.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\bin\Debug\net6.0\02a.TopologicalSortingWithBFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\bin\Debug\net6.0\02a.TopologicalSortingWithBFS.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\refint\02a.TopologicalSortingWithBFS.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\02a.TopologicalSortingWithBFS.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02a.TopologicalSortingWithBFS\obj\Debug\net6.0\ref\02a.TopologicalSortingWithBFS.dll

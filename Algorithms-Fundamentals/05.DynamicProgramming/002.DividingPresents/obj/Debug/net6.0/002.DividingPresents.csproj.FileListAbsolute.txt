@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\bin\Debug\net6.0\002.DividingPresents.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\bin\Debug\net6.0\002.DividingPresents.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\bin\Debug\net6.0\002.DividingPresents.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\bin\Debug\net6.0\002.DividingPresents.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\bin\Debug\net6.0\002.DividingPresents.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\refint\002.DividingPresents.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\002.DividingPresents.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\002.DividingPresents\obj\Debug\net6.0\ref\002.DividingPresents.dll

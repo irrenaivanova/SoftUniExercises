@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\bin\Debug\net6.0\27.07.03.Guards.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\bin\Debug\net6.0\27.07.03.Guards.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\bin\Debug\net6.0\27.07.03.Guards.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\bin\Debug\net6.0\27.07.03.Guards.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\bin\Debug\net6.0\27.07.03.Guards.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\refint\27.07.03.Guards.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\27.07.03.Guards.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\06.ExamPreperation\27.07.03.Guards\obj\Debug\net6.0\ref\27.07.03.Guards.dll

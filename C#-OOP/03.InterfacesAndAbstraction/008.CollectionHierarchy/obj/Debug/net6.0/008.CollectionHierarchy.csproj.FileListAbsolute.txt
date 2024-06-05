@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\bin\Debug\net6.0\008.CollectionHierarchy.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\bin\Debug\net6.0\008.CollectionHierarchy.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\bin\Debug\net6.0\008.CollectionHierarchy.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\bin\Debug\net6.0\008.CollectionHierarchy.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\bin\Debug\net6.0\008.CollectionHierarchy.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\refint\008.CollectionHierarchy.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\008.CollectionHierarchy.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\008.CollectionHierarchy\obj\Debug\net6.0\ref\008.CollectionHierarchy.dll

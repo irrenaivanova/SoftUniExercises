@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>02.GenericBoxOfInteger</id>
+    <version>1.0.0</version>
+    <authors>02.GenericBoxOfInteger</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.runtimeconfig.json" target="lib\net6.0\02.GenericBoxOfInteger.runtimeconfig.json" />
+    <file src="C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.dll" target="lib\net6.0\02.GenericBoxOfInteger.dll" />
+  </files>
+</package>

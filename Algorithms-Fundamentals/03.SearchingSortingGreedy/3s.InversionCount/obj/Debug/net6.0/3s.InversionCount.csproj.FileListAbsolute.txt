@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\bin\Debug\net6.0\3s.InversionCount.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\bin\Debug\net6.0\3s.InversionCount.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\bin\Debug\net6.0\3s.InversionCount.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\bin\Debug\net6.0\3s.InversionCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\bin\Debug\net6.0\3s.InversionCount.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\refint\3s.InversionCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\3s.InversionCount.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.SearchingSortingGreedy\3s.InversionCount\obj\Debug\net6.0\ref\3s.InversionCount.dll

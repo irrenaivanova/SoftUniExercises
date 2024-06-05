@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\bin\Debug\net6.0\04.SetCover.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\bin\Debug\net6.0\04.SetCover.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\bin\Debug\net6.0\04.SetCover.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\bin\Debug\net6.0\04.SetCover.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\bin\Debug\net6.0\04.SetCover.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\refint\04.SetCover.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\04.SetCover.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\04.SetCover\obj\Debug\net6.0\ref\04.SetCover.dll

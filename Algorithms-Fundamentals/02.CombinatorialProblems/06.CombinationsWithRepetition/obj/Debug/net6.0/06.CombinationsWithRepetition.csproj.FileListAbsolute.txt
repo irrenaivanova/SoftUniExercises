@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\bin\Debug\net6.0\06.CombinationsWithRepetition.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\bin\Debug\net6.0\06.CombinationsWithRepetition.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\bin\Debug\net6.0\06.CombinationsWithRepetition.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\bin\Debug\net6.0\06.CombinationsWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\bin\Debug\net6.0\06.CombinationsWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\refint\06.CombinationsWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\06.CombinationsWithRepetition.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\06.CombinationsWithRepetition\obj\Debug\net6.0\ref\06.CombinationsWithRepetition.dll

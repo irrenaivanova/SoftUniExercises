@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\bin\Debug\net6.0\04.SubsetSum.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\bin\Debug\net6.0\04.SubsetSum.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\bin\Debug\net6.0\04.SubsetSum.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\bin\Debug\net6.0\04.SubsetSum.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\bin\Debug\net6.0\04.SubsetSum.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\refint\04.SubsetSum.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\04.SubsetSum.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\04.SubsetSum\obj\Debug\net6.0\ref\04.SubsetSum.dll

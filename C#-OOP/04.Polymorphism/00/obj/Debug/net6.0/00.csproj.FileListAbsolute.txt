@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\bin\Debug\net6.0\00.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\bin\Debug\net6.0\00.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\bin\Debug\net6.0\00.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\bin\Debug\net6.0\00.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\bin\Debug\net6.0\00.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\refint\00.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\00.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\00\obj\Debug\net6.0\ref\00.dll

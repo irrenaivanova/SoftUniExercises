@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\bin\Debug\net6.0\03.Followers.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\bin\Debug\net6.0\03.Followers.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\bin\Debug\net6.0\03.Followers.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\bin\Debug\net6.0\03.Followers.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\bin\Debug\net6.0\03.Followers.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\refint\03.Followers.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\03.Followers.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\03.Followers\obj\Debug\net6.0\ref\03.Followers.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\bin\Debug\net6.0\006.ConnectingCables.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\bin\Debug\net6.0\006.ConnectingCables.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\bin\Debug\net6.0\006.ConnectingCables.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\bin\Debug\net6.0\006.ConnectingCables.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\bin\Debug\net6.0\006.ConnectingCables.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\refint\006.ConnectingCables.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\006.ConnectingCables.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\006.ConnectingCables\obj\Debug\net6.0\ref\006.ConnectingCables.dll

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "projectName": "04.AddVAT",
+        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\05.FunctionalProgramming\\04.AddVAT\\04.AddVAT.csproj",
+        "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\05.FunctionalProgramming\\04.AddVAT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

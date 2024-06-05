@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\bin\Debug\net6.0\05.WordDifferences.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\bin\Debug\net6.0\05.WordDifferences.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\bin\Debug\net6.0\05.WordDifferences.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\bin\Debug\net6.0\05.WordDifferences.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\bin\Debug\net6.0\05.WordDifferences.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\refint\05.WordDifferences.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\05.WordDifferences.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\05.WordDifferences\obj\Debug\net6.0\ref\05.WordDifferences.dll

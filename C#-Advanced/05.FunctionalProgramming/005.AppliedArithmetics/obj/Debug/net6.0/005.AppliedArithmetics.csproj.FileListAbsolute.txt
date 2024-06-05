@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\bin\Debug\net6.0\005.AppliedArithmetics.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\bin\Debug\net6.0\005.AppliedArithmetics.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\bin\Debug\net6.0\005.AppliedArithmetics.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\bin\Debug\net6.0\005.AppliedArithmetics.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\bin\Debug\net6.0\005.AppliedArithmetics.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\refint\005.AppliedArithmetics.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\005.AppliedArithmetics.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\005.AppliedArithmetics\obj\Debug\net6.0\ref\005.AppliedArithmetics.dll

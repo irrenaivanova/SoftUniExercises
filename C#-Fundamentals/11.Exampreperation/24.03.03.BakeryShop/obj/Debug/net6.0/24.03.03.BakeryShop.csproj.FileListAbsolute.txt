@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\bin\Debug\net6.0\24.03.03.BakeryShop.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\bin\Debug\net6.0\24.03.03.BakeryShop.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\bin\Debug\net6.0\24.03.03.BakeryShop.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\bin\Debug\net6.0\24.03.03.BakeryShop.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\bin\Debug\net6.0\24.03.03.BakeryShop.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\refint\24.03.03.BakeryShop.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\24.03.03.BakeryShop.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\24.03.03.BakeryShop\obj\Debug\net6.0\ref\24.03.03.BakeryShop.dll

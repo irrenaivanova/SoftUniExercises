@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\bin\Debug\net6.0\09.CustomLinkedList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\refint\09.CustomLinkedList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\09.CustomLinkedList.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\08.Generics\09.CustomLinkedList\obj\Debug\net6.0\ref\09.CustomLinkedList.dll

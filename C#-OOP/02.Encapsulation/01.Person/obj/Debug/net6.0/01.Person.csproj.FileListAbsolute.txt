@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\bin\Debug\net6.0\01.Person.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\bin\Debug\net6.0\01.Person.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\bin\Debug\net6.0\01.Person.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\bin\Debug\net6.0\01.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\bin\Debug\net6.0\01.Person.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\refint\01.Person.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\01.Person.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\02.Encapsulation\01.Person\obj\Debug\net6.0\ref\01.Person.dll

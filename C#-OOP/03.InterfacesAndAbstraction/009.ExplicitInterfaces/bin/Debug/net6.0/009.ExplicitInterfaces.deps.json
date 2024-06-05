@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "009.ExplicitInterfaces/1.0.0": {
+        "dependencies": {
+          "008.CollectionHierarchy": "1.0.0"
+        },
+        "runtime": {
+          "009.ExplicitInterfaces.dll": {}
+        }
+      },
+      "008.CollectionHierarchy/1.0.0": {
+        "runtime": {
+          "008.CollectionHierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "009.ExplicitInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "008.CollectionHierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

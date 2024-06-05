@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\bin\Debug\net6.0\06.8QueensPuzzle.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\bin\Debug\net6.0\06.8QueensPuzzle.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\bin\Debug\net6.0\06.8QueensPuzzle.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\bin\Debug\net6.0\06.8QueensPuzzle.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\bin\Debug\net6.0\06.8QueensPuzzle.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\refint\06.8QueensPuzzle.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\06.8QueensPuzzle.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\06.8QueensPuzzle\obj\Debug\net6.0\ref\06.8QueensPuzzle.dll

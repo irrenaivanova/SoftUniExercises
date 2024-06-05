@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\bin\Debug\net6.0\CostumStack.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\bin\Debug\net6.0\CostumStack.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\bin\Debug\net6.0\CostumStack.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\bin\Debug\net6.0\CostumStack.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\bin\Debug\net6.0\CostumStack.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\refint\CostumStack.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\CostumStack.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\07.LinkedList\CostumStack\obj\Debug\net6.0\ref\CostumStack.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\bin\Debug\net6.0\001.DefineAnInterfaceIPerson.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\bin\Debug\net6.0\001.DefineAnInterfaceIPerson.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\bin\Debug\net6.0\001.DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\bin\Debug\net6.0\001.DefineAnInterfaceIPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\bin\Debug\net6.0\001.DefineAnInterfaceIPerson.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\refint\001.DefineAnInterfaceIPerson.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\001.DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\03.InterfacesAndAbstraction\001.DefineAnInterfaceIPerson\obj\Debug\net6.0\ref\001.DefineAnInterfaceIPerson.dll

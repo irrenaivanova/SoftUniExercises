@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\bin\Debug\net6.0\01.02.AdAstra.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\bin\Debug\net6.0\01.02.AdAstra.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\bin\Debug\net6.0\01.02.AdAstra.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\bin\Debug\net6.0\01.02.AdAstra.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\bin\Debug\net6.0\01.02.AdAstra.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\refint\01.02.AdAstra.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\01.02.AdAstra.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.02.AdAstra\obj\Debug\net6.0\ref\01.02.AdAstra.dll

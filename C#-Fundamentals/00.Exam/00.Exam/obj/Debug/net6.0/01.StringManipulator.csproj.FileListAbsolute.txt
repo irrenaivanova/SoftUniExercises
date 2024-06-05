@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\bin\Debug\net6.0\01.StringManipulator.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\bin\Debug\net6.0\01.StringManipulator.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\bin\Debug\net6.0\01.StringManipulator.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\bin\Debug\net6.0\01.StringManipulator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\bin\Debug\net6.0\01.StringManipulator.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\refint\01.StringManipulator.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\01.StringManipulator.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\00.Exam\00.Exam\obj\Debug\net6.0\ref\01.StringManipulator.dll

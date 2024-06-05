@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\bin\Debug\net6.0\24.03.01.Registartion.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\bin\Debug\net6.0\24.03.01.Registartion.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\bin\Debug\net6.0\24.03.01.Registartion.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\bin\Debug\net6.0\24.03.01.Registartion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\bin\Debug\net6.0\24.03.01.Registartion.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\refint\24.03.01.Registartion.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\24.03.01.Registartion.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\11.Exampreperation\obj\Debug\net6.0\ref\24.03.01.Registartion.dll

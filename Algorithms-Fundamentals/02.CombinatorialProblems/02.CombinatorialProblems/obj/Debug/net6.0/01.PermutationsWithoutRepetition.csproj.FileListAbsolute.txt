@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\bin\Debug\net6.0\01.PermutationsWithoutRepetition.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\bin\Debug\net6.0\01.PermutationsWithoutRepetition.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\bin\Debug\net6.0\01.PermutationsWithoutRepetition.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\bin\Debug\net6.0\01.PermutationsWithoutRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\bin\Debug\net6.0\01.PermutationsWithoutRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\refint\01.PermutationsWithoutRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\01.PermutationsWithoutRepetition.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\02.CombinatorialProblems\obj\Debug\net6.0\ref\01.PermutationsWithoutRepetition.dll

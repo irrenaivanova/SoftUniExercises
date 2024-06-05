@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\bin\Debug\net6.0\CustomRandomList.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\bin\Debug\net6.0\CustomRandomList.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\bin\Debug\net6.0\CustomRandomList.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\bin\Debug\net6.0\CustomRandomList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\bin\Debug\net6.0\CustomRandomList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\refint\CustomRandomList.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\CustomRandomList.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\01.Inheritance\04.RandomList\obj\Debug\net6.0\ref\CustomRandomList.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\bin\Debug\net6.0\01.01.TheImitationGame.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\bin\Debug\net6.0\01.01.TheImitationGame.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\bin\Debug\net6.0\01.01.TheImitationGame.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\bin\Debug\net6.0\01.01.TheImitationGame.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\bin\Debug\net6.0\01.01.TheImitationGame.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\refint\01.01.TheImitationGame.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\01.01.TheImitationGame.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\11.Exampreperation\01.01.TheImitationGame\obj\Debug\net6.0\ref\01.01.TheImitationGame.dll

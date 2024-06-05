@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\bin\Debug\net6.0\23.02.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\bin\Debug\net6.0\23.02.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\bin\Debug\net6.0\23.02.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\bin\Debug\net6.0\23.02.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\bin\Debug\net6.0\23.02.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\refint\23.02.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\23.02.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Fundamentals\Softuniada\23.02\obj\Debug\net6.0\ref\23.02.dll

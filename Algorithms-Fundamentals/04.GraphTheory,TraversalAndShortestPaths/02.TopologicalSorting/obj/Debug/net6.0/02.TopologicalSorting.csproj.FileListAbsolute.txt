@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\bin\Debug\net6.0\02.TopologicalSorting.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\bin\Debug\net6.0\02.TopologicalSorting.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\bin\Debug\net6.0\02.TopologicalSorting.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\bin\Debug\net6.0\02.TopologicalSorting.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\bin\Debug\net6.0\02.TopologicalSorting.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\refint\02.TopologicalSorting.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\02.TopologicalSorting.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\02.TopologicalSorting\obj\Debug\net6.0\ref\02.TopologicalSorting.dll

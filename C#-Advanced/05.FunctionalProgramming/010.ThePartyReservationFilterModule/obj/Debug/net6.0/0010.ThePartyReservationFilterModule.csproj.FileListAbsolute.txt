@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\bin\Debug\net6.0\0010.ThePartyReservationFilterModule.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\bin\Debug\net6.0\0010.ThePartyReservationFilterModule.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\bin\Debug\net6.0\0010.ThePartyReservationFilterModule.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\bin\Debug\net6.0\0010.ThePartyReservationFilterModule.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\bin\Debug\net6.0\0010.ThePartyReservationFilterModule.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\refint\0010.ThePartyReservationFilterModule.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\0010.ThePartyReservationFilterModule.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\010.ThePartyReservationFilterModule\obj\Debug\net6.0\ref\0010.ThePartyReservationFilterModule.dll

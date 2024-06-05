@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\bin\Debug\net6.0\009.PredicateParty!.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\bin\Debug\net6.0\009.PredicateParty!.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\bin\Debug\net6.0\009.PredicateParty!.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\bin\Debug\net6.0\009.PredicateParty!.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\bin\Debug\net6.0\009.PredicateParty!.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\refint\009.PredicateParty!.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\009.PredicateParty!.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\009.PredicateParty!\obj\Debug\net6.0\ref\009.PredicateParty!.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\bin\Debug\net6.0\008.ListOfPredicates.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\bin\Debug\net6.0\008.ListOfPredicates.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\bin\Debug\net6.0\008.ListOfPredicates.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\bin\Debug\net6.0\008.ListOfPredicates.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\bin\Debug\net6.0\008.ListOfPredicates.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\refint\008.ListOfPredicates.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\008.ListOfPredicates.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\008.ListOfPredicates\obj\Debug\net6.0\ref\008.ListOfPredicates.dll

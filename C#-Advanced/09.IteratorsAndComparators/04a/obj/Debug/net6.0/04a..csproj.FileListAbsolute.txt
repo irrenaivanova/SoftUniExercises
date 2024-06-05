@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\bin\Debug\net6.0\04a..exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\bin\Debug\net6.0\04a..deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\bin\Debug\net6.0\04a..runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\bin\Debug\net6.0\04a..dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\bin\Debug\net6.0\04a..pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\refint\04a..dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\04a..genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\04a\obj\Debug\net6.0\ref\04a..dll

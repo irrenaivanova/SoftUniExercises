@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\bin\Debug\net6.0\001.BinomialCoefficients.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\bin\Debug\net6.0\001.BinomialCoefficients.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\bin\Debug\net6.0\001.BinomialCoefficients.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\bin\Debug\net6.0\001.BinomialCoefficients.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\bin\Debug\net6.0\001.BinomialCoefficients.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\refint\001.BinomialCoefficients.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\001.BinomialCoefficients.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\001.BinomialCoefficients\obj\Debug\net6.0\ref\001.BinomialCoefficients.dll

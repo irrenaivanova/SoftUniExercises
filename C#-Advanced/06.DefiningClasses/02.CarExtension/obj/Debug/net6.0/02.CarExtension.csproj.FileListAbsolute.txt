@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\bin\Debug\net6.0\02.CarExtension.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\bin\Debug\net6.0\02.CarExtension.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\bin\Debug\net6.0\02.CarExtension.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\bin\Debug\net6.0\02.CarExtension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\bin\Debug\net6.0\02.CarExtension.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\refint\02.CarExtension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\02.CarExtension.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\02.CarExtension\obj\Debug\net6.0\ref\02.CarExtension.dll

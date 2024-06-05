@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\bin\Debug\net6.0\03.LongestCommonSubsequence.exe
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\bin\Debug\net6.0\03.LongestCommonSubsequence.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\bin\Debug\net6.0\03.LongestCommonSubsequence.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\bin\Debug\net6.0\03.LongestCommonSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\bin\Debug\net6.0\03.LongestCommonSubsequence.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\refint\03.LongestCommonSubsequence.dll
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.pdb
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\03.LongestCommonSubsequence.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\05.DynamicProgramming\03.LongestCommonSubsequence\obj\Debug\net6.0\ref\03.LongestCommonSubsequence.dll

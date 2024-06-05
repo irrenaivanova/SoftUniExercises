@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\bin\Debug\net6.0\002.NestedLoops.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\bin\Debug\net6.0\002.NestedLoops.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\bin\Debug\net6.0\002.NestedLoops.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\bin\Debug\net6.0\002.NestedLoops.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\bin\Debug\net6.0\002.NestedLoops.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\refint\002.NestedLoops.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\002.NestedLoops.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\01.RecursionAndBacktracking\002.NestedLoops\obj\Debug\net6.0\ref\002.NestedLoops.dll

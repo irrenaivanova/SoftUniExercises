@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\bin\Debug\net6.0\07. NChooseKCount.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\bin\Debug\net6.0\07. NChooseKCount.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\bin\Debug\net6.0\07. NChooseKCount.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\bin\Debug\net6.0\07. NChooseKCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\bin\Debug\net6.0\07. NChooseKCount.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\refint\07. NChooseKCount.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\07. NChooseKCount.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\02.CombinatorialProblems\07. NChooseKCount\obj\Debug\net6.0\ref\07. NChooseKCount.dll

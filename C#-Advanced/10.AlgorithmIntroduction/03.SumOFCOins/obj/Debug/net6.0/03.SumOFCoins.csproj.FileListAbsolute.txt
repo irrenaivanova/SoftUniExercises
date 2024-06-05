@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\bin\Debug\net6.0\03.SumOFCoins.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\bin\Debug\net6.0\03.SumOFCoins.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\bin\Debug\net6.0\03.SumOFCoins.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\bin\Debug\net6.0\03.SumOFCoins.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\bin\Debug\net6.0\03.SumOFCoins.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\refint\03.SumOFCoins.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\03.SumOFCoins.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\03.SumOFCOins\obj\Debug\net6.0\ref\03.SumOFCoins.dll

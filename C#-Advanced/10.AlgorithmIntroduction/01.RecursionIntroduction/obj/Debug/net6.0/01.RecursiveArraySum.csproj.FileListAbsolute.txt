@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\bin\Debug\net6.0\01.RecursiveArraySum.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\bin\Debug\net6.0\01.RecursiveArraySum.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\bin\Debug\net6.0\01.RecursiveArraySum.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\bin\Debug\net6.0\01.RecursiveArraySum.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\bin\Debug\net6.0\01.RecursiveArraySum.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\refint\01.RecursiveArraySum.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\01.RecursiveArraySum.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\10.AlgorithmIntroduction\01.RecursionIntroduction\obj\Debug\net6.0\ref\01.RecursiveArraySum.dll

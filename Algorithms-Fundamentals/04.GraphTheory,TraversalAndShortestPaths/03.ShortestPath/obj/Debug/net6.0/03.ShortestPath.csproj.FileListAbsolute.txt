@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\bin\Debug\net6.0\03.ShortestPath.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\bin\Debug\net6.0\03.ShortestPath.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\bin\Debug\net6.0\03.ShortestPath.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\bin\Debug\net6.0\03.ShortestPath.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\bin\Debug\net6.0\03.ShortestPath.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\refint\03.ShortestPath.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\03.ShortestPath.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\03.ShortestPath\obj\Debug\net6.0\ref\03.ShortestPath.dll

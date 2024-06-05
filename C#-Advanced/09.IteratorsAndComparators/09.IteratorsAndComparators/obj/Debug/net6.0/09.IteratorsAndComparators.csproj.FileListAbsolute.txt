@@ -1,0 +1,4 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\09.IteratorsAndComparators\obj\Debug\net6.0\09.IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\09.IteratorsAndComparators\obj\Debug\net6.0\09.IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\09.IteratorsAndComparators\obj\Debug\net6.0\09.IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\09.IteratorsAndComparators\09.IteratorsAndComparators\obj\Debug\net6.0\09.IteratorsAndComparators.csproj.CoreCompileInputs.cache

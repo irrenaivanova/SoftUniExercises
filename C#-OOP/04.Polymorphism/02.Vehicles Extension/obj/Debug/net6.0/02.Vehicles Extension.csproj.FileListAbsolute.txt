@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\bin\Debug\net6.0\02.Vehicles Extension.exe
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\bin\Debug\net6.0\02.Vehicles Extension.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\bin\Debug\net6.0\02.Vehicles Extension.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\bin\Debug\net6.0\02.Vehicles Extension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\bin\Debug\net6.0\02.Vehicles Extension.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\refint\02.Vehicles Extension.dll
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\02.Vehicles Extension.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-OOP\04.Polymorphism\02.Vehicles Extension\obj\Debug\net6.0\ref\02.Vehicles Extension.dll

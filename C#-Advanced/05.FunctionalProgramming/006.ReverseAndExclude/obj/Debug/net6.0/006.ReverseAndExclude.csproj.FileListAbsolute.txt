@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\bin\Debug\net6.0\006.ReverseAndExclude.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\bin\Debug\net6.0\006.ReverseAndExclude.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\bin\Debug\net6.0\006.ReverseAndExclude.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\bin\Debug\net6.0\006.ReverseAndExclude.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\bin\Debug\net6.0\006.ReverseAndExclude.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\refint\006.ReverseAndExclude.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\006.ReverseAndExclude.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\05.FunctionalProgramming\006.ReverseAndExclude\obj\Debug\net6.0\ref\006.ReverseAndExclude.dll

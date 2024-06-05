@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\bin\Debug\net6.0\007.RawData.exe
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\bin\Debug\net6.0\007.RawData.deps.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\bin\Debug\net6.0\007.RawData.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\bin\Debug\net6.0\007.RawData.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\bin\Debug\net6.0\007.RawData.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\refint\007.RawData.dll
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.pdb
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\007.RawData.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\C#-Advanced\06.DefiningClasses\007.RawData\obj\Debug\net6.0\ref\007.RawData.dll

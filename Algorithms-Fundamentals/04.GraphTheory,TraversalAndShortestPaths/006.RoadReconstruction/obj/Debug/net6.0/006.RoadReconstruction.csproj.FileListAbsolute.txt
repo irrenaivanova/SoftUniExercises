@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\bin\Debug\net6.0\006.RoadReconstruction.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\bin\Debug\net6.0\006.RoadReconstruction.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\bin\Debug\net6.0\006.RoadReconstruction.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\bin\Debug\net6.0\006.RoadReconstruction.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\bin\Debug\net6.0\006.RoadReconstruction.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\refint\006.RoadReconstruction.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\006.RoadReconstruction.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\006.RoadReconstruction\obj\Debug\net6.0\ref\006.RoadReconstruction.dll

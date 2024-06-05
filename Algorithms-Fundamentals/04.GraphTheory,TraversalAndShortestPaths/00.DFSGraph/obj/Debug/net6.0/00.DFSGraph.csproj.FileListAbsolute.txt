@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\bin\Debug\net6.0\00.DFSGraph.exe
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\bin\Debug\net6.0\00.DFSGraph.deps.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\bin\Debug\net6.0\00.DFSGraph.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\bin\Debug\net6.0\00.DFSGraph.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\bin\Debug\net6.0\00.DFSGraph.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\refint\00.DFSGraph.dll
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.pdb
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\00.DFSGraph.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\others\Algorithms-Fundamentals\04.GraphTheory,TraversalAndShortestPaths\00.DFSGraph\obj\Debug\net6.0\ref\00.DFSGraph.dll
