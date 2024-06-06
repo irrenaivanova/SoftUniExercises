@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\05.ExceptionsAndErrorHandling\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll
