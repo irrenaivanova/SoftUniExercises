@@ -8,5 +8,6 @@ namespace SimpleLogger.Core.Layouts.Interfaces
 {
     public interface ILayout
     {
+        string Format { get; }
     }
 }

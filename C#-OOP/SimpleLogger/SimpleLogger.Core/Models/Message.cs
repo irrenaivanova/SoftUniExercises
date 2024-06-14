@@ -26,11 +26,11 @@ namespace SimpleLogger.Core.Models
             get => dateTime;
             set
             {
-                if (string.IsNullOrWhiteSpace(dateTime))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new EmptyPropertyException();
                 }
-                if (!DateTimeValidator.Validate(dateTime))
+                if (!DateTimeValidator.Validate(value))
                 {
                     throw new NotValidDataException();
                 }
@@ -43,7 +43,7 @@ namespace SimpleLogger.Core.Models
             get => messageText;
             set
             {
-                if (string.IsNullOrWhiteSpace(messageText))
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new EmptyPropertyException();
                 }

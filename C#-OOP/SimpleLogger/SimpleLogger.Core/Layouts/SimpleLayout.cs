@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 
 namespace SimpleLogger.Core.Layouts
 {
-    public class SimpleLayout:ILayout
+    public class SimpleLayout : ILayout
     {
+        private const string SimpleFormat = "{0} - {1} - {2}";
+        public string Format => SimpleFormat;
     }
 }

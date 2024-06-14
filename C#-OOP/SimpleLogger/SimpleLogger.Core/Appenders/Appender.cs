@@ -28,6 +28,6 @@ namespace SimpleLogger.Core.Appenders
         public abstract void Append(Message message);
         public override string ToString()
             => $"Appender type: {GetType().Name}, Layout type: {Layout.GetType().Name},  " +
-            $"Report level: {ReportLevel.GetType().Name.ToUpper()}, Messags appended: {MessageAppends}";
+            $"Report level: {ReportLevel.ToString().ToUpper()}, Messages appended: {MessageAppends}";
 }
 }

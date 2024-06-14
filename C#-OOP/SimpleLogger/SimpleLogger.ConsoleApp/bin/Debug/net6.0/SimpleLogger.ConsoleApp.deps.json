@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SimpleLogger.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "SimpleLogger.Core": "1.0.0"
+        },
+        "runtime": {
+          "SimpleLogger.ConsoleApp.dll": {}
+        }
+      },
+      "SimpleLogger.Core/1.0.0": {
+        "runtime": {
+          "SimpleLogger.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleLogger.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleLogger.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

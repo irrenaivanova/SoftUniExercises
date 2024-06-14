@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQH5tVwzQmsapZx+K+X6+i5sBnEWCmHYa9TWolj1LN7Gr9aFWNp6MXzXIaFvkIULkto9CL8ekef8O1XBvFKzrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\LoggerNuGetPack\\LoggerNuGetPack\\LoggerNuGetPack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schhh\\.nuget\\packages\\simplelogger.core\\1.0.0\\simplelogger.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

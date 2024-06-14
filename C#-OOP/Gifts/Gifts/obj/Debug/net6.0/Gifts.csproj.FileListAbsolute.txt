@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\bin\Debug\net6.0\Gifts.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\bin\Debug\net6.0\Gifts.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\bin\Debug\net6.0\Gifts.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\bin\Debug\net6.0\Gifts.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\bin\Debug\net6.0\Gifts.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\refint\Gifts.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\Gifts.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\Gifts\Gifts\obj\Debug\net6.0\ref\Gifts.dll

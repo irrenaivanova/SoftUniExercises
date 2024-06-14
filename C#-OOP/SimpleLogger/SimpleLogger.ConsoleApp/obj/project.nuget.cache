@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l1Fea6HVzjyK/qnEU8off33BeTotbTsFcGnAYd5kgW9wSn36t+/786+zW3YIzKWqW7V/Cbo7N59u9fwfOIt+RA==",
+  "dgSpecHash": "mo0gexAgef3ijM5E6ZbjU71qxxbp4O7SPzHRsEfcsxfEgaRKZiialRCVFOclh7RApdIt1SBBSbDAmC+jhTdMjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\SimpleLogger\\SimpleLogger.ConsoleApp\\SimpleLogger.ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\schhh\\.nuget\\packages\\simplelogger.core\\1.0.0\\simplelogger.core.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
