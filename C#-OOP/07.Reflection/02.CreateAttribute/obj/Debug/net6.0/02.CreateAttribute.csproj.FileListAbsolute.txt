@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\bin\Debug\net6.0\02.CreateAttribute.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\bin\Debug\net6.0\02.CreateAttribute.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\bin\Debug\net6.0\02.CreateAttribute.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\bin\Debug\net6.0\02.CreateAttribute.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\bin\Debug\net6.0\02.CreateAttribute.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\refint\02.CreateAttribute.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\02.CreateAttribute.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\02.CreateAttribute\obj\Debug\net6.0\ref\02.CreateAttribute.dll

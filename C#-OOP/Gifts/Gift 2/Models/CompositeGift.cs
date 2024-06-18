@@ -40,6 +40,10 @@ namespace Gifts.Models
             }
             return Price;
         }
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="gift"></param>
         public void Add(IGiftBase gift) 
         {
             gifts.Add( gift );
