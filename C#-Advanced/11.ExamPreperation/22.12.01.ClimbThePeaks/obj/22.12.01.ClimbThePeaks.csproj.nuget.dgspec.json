@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj": {}
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj": {
+    "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj",
+        "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj",
         "projectName": "22.12.01.ClimbThePeaks",
-        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj",
+        "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\22.12.01.ClimbThePeaks.csproj",
         "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\obj\\",
+        "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.12.01.ClimbThePeaks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\schhh\\Desktop\\SoftUni": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

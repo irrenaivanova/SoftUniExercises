@@ -12,3 +12,17 @@ C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattl
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.pdb
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.genruntimeconfig.cache
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\ref\22.12.02.NavyBattle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\bin\Debug\net6.0\22.12.02.NavyBattle.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\bin\Debug\net6.0\22.12.02.NavyBattle.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\bin\Debug\net6.0\22.12.02.NavyBattle.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\bin\Debug\net6.0\22.12.02.NavyBattle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\bin\Debug\net6.0\22.12.02.NavyBattle.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\refint\22.12.02.NavyBattle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\22.12.02.NavyBattle.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.02.NavyBattle\obj\Debug\net6.0\ref\22.12.02.NavyBattle.dll

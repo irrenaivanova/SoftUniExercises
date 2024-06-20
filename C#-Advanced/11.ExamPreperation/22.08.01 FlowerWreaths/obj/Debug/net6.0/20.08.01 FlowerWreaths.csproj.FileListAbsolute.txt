@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\bin\Debug\net6.0\20.08.01 FlowerWreaths.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\bin\Debug\net6.0\20.08.01 FlowerWreaths.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\bin\Debug\net6.0\20.08.01 FlowerWreaths.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\bin\Debug\net6.0\20.08.01 FlowerWreaths.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\bin\Debug\net6.0\20.08.01 FlowerWreaths.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\refint\20.08.01 FlowerWreaths.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\20.08.01 FlowerWreaths.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.08.01 FlowerWreaths\obj\Debug\net6.0\ref\20.08.01 FlowerWreaths.dll

@@ -1,0 +1,4 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\00.TestFromJudgeIfExistsTable\obj\Debug\net6.0\00.TestFromJudgeIfExistsTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\00.TestFromJudgeIfExistsTable\obj\Debug\net6.0\00.TestFromJudgeIfExistsTable.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\00.TestFromJudgeIfExistsTable\obj\Debug\net6.0\00.TestFromJudgeIfExistsTable.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\00.TestFromJudgeIfExistsTable\obj\Debug\net6.0\00.TestFromJudgeIfExistsTable.csproj.CoreCompileInputs.cache

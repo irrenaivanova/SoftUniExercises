@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\bin\Debug\net6.0\ValidationAttributes2.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\bin\Debug\net6.0\ValidationAttributes2.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\bin\Debug\net6.0\ValidationAttributes2.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\bin\Debug\net6.0\ValidationAttributes2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\bin\Debug\net6.0\ValidationAttributes2.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\refint\ValidationAttributes2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ValidationAttributes2.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\07.Reflection\ValidationAttributes2\obj\Debug\net6.0\ref\ValidationAttributes2.dll

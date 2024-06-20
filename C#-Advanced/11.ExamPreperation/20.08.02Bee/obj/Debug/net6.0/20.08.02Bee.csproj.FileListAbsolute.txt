@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\bin\Debug\net6.0\20.08.02Bee.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\bin\Debug\net6.0\20.08.02Bee.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\bin\Debug\net6.0\20.08.02Bee.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\bin\Debug\net6.0\20.08.02Bee.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\bin\Debug\net6.0\20.08.02Bee.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\refint\20.08.02Bee.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\20.08.02Bee.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.02Bee\obj\Debug\net6.0\ref\20.08.02Bee.dll

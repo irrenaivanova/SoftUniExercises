@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\bin\Debug\net6.0\Function.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\bin\Debug\net6.0\Function.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\bin\Debug\net6.0\Function.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\bin\Debug\net6.0\Function.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\bin\Debug\net6.0\Function.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\refint\Function.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\Function.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\Dec2020\Function\obj\Debug\net6.0\ref\Function.dll

@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\bin\Debug\net6.0\20.08.03.VetClinic.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\bin\Debug\net6.0\20.08.03.VetClinic.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\bin\Debug\net6.0\20.08.03.VetClinic.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\bin\Debug\net6.0\20.08.03.VetClinic.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\bin\Debug\net6.0\20.08.03.VetClinic.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\refint\20.08.03.VetClinic.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\20.08.03.VetClinic.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\20.08.03.VetClinic\obj\Debug\net6.0\ref\20.08.03.VetClinic.dll

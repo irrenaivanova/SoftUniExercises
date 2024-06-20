@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3lBG9OliZfpA9qEhda9hglgd0Sod8BSh2PK084rNmYc08VSvqki7TUFCeqI6SWOU0Q8eHbd/GYDitCQ/gDfUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\00.ExamPreperation\\Dec2020\\03. Unit Tests_Skeleton\\BankSafe\\BankSafe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

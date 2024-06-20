@@ -12,3 +12,17 @@ C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.pdb
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.genruntimeconfig.cache
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\ref\22.12.03.ShoeStore.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\bin\Debug\net6.0\22.12.03.ShoeStore.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\bin\Debug\net6.0\22.12.03.ShoeStore.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\bin\Debug\net6.0\22.12.03.ShoeStore.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\bin\Debug\net6.0\22.12.03.ShoeStore.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\bin\Debug\net6.0\22.12.03.ShoeStore.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\refint\22.12.03.ShoeStore.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\22.12.03.ShoeStore.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\22.12.03.ShoeStore\obj\Debug\net6.0\ref\22.12.03.ShoeStore.dll

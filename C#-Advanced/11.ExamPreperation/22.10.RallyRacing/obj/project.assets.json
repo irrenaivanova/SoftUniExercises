@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\22.10.02.RallyRacing.csproj",
+      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\22.10.02.RallyRacing.csproj",
       "projectName": "22.10.02.RallyRacing",
-      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\22.10.02.RallyRacing.csproj",
+      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\22.10.02.RallyRacing.csproj",
       "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\obj\\",
+      "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-Advanced\\11.ExamPreperation\\22.10.RallyRacing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\schhh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\schhh\\Desktop\\SoftUni": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

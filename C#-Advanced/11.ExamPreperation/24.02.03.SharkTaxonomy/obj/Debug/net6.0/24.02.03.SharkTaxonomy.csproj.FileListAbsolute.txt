@@ -12,3 +12,17 @@ C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxo
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.pdb
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.genruntimeconfig.cache
 C:\Users\schhh\Desktop\SoftUni\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\ref\24.02.03.SharkTaxonomy.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\bin\Debug\net6.0\24.02.03.SharkTaxonomy.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\bin\Debug\net6.0\24.02.03.SharkTaxonomy.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\bin\Debug\net6.0\24.02.03.SharkTaxonomy.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\bin\Debug\net6.0\24.02.03.SharkTaxonomy.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\bin\Debug\net6.0\24.02.03.SharkTaxonomy.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\refint\24.02.03.SharkTaxonomy.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\24.02.03.SharkTaxonomy.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\11.ExamPreperation\24.02.03.SharkTaxonomy\obj\Debug\net6.0\ref\24.02.03.SharkTaxonomy.dll

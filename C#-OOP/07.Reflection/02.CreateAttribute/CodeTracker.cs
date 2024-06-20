@@ -40,7 +40,6 @@ namespace _02.CreateAttribute
                         }
                     }
                 }
-
             }
 
             return sb.ToString();
