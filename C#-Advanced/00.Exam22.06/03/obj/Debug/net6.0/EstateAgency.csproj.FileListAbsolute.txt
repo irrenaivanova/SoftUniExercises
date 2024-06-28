@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\bin\Debug\net6.0\EstateAgency.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\bin\Debug\net6.0\EstateAgency.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\bin\Debug\net6.0\EstateAgency.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\bin\Debug\net6.0\EstateAgency.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\bin\Debug\net6.0\EstateAgency.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\refint\EstateAgency.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\EstateAgency.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\03\obj\Debug\net6.0\ref\EstateAgency.dll

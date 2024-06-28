@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\bin\Debug\net6.0\Beesy2.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\bin\Debug\net6.0\Beesy2.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\bin\Debug\net6.0\Beesy2.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\bin\Debug\net6.0\Beesy2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\bin\Debug\net6.0\Beesy2.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\refint\Beesy2.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\Beesy2.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-Advanced\00.Exam22.06\Beesy2\obj\Debug\net6.0\ref\Beesy2.dll
