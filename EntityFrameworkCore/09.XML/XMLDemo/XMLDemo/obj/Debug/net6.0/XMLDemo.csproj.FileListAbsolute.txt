@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\XMLDemo.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\XMLDemo.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\XMLDemo.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\XMLDemo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\XMLDemo.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\refint\XMLDemo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\XMLDemo.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\obj\Debug\net6.0\ref\XMLDemo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\EntityFrameworkCore\09.XML\XMLDemo\XMLDemo\bin\Debug\net6.0\xmlDemo.xml
