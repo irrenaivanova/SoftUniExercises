@@ -13,7 +13,7 @@ namespace CarDealer
             this.CreateMap<ImportPartDto, Part>();
             this.CreateMap<ImportCarDto, Car>();
             this.CreateMap<ImportPartDto2, PartCar>();
-          this.CreateMap<ImportCostumerDto, Customer>();
+            this.CreateMap<ImportCostumerDto, Customer>();
             this.CreateMap<ImportSaleDto, Sale>();
 
 

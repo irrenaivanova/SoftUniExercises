@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Products>
+	<Product>
+		<sellerId>25</sellerId>
+		<buyerId>24</buyerId>
+	</Product>
+	<Product>
+		<name>Care One Hemorrhoidal</name>
+		<price>932.18</price>
+		<buyerId>24</buyerId>
+	</Product>
+	<Product>
+		<price>932.18</price>
+		<buyerId>24</buyerId>
+	</Product>
     <Product>
         <name>Care One Hemorrhoidal</name>
         <price>932.18</price>

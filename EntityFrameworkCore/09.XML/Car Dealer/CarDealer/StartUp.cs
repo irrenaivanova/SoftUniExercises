@@ -22,7 +22,7 @@ namespace CarDealer
             //string result = ImportSales(db,inputXml);
             //Console.WriteLine(result);
 
-            string result2 = GetTotalSalesByCustomer(db);
+            string result2 = GetSalesWithAppliedDiscount(db);
             Console.WriteLine(result2);
         }
 
@@ -218,26 +218,79 @@ namespace CarDealer
             return ser.Serialize(cars, "cars");
         }
 
+        public static string GetTotalSalesByCustomer2(CarDealerContext context)
+        {
+            IMapper mapper = CreateMapper();
+            var ser = new XMLHelper();
+
+            var customers = context.Customers.Where(x => x.Sales.Count > 0)
+                .Select(x => new
+                {
+                    x.Name,
+                    x.IsYoungDriver,
+                    x.Sales,
+                }).ToList()
+                .Select(x => new Customer1()
+                {
+                    FullName = x.Name,
+                    BoughtCar = x.Sales.Count,
+                    SpentMoney = x.IsYoungDriver ? Math.Round(x.Sales.Sum(x => x.Car.PartsCars.Sum(x => (double)x.Part.Price))* 0.95,2) : Math.Round(x.Sales.Sum(x => x.Car.PartsCars.Sum(x =>(double) x.Part.Price)),2)
+
+                }).ToArray()
+                .OrderByDescending(x => x.SpentMoney).ToArray();
+
+            return ser.Serialize(customers, "customers");
+        }
+
+
+        //за да превежда заявката първо изтегляме всичките цени и във вториселект ги агрегираме
         public static string GetTotalSalesByCustomer(CarDealerContext context)
         {
             IMapper mapper = CreateMapper();
             var ser = new XMLHelper();
 
             var customers = context.Customers.Where(x => x.Sales.Count > 0)
-                .Select(x => new Customer1()
+                .Select(x => new
                 {
-                    FullName = x.Name,
-                    BoughtCar = x.Sales.Count,
-                    SpentMoney = x.Sales.ToArray().Sum(x => x.Car.PartsCars.Sum(x => x.Part.Price))
+                    FullName= x.Name,
+                    BoughtCars = x.Sales.Count,
+                    SalesInfo = x.Sales.Select(y => new
+                    {
+                        Prices = x.IsYoungDriver ? y.Car.PartsCars.Sum(p => Math.Round((double)p.Part.Price * 0.95, 2))
+                        : y.Car.PartsCars.Sum(p => (double)p.Part.Price)
+                    }).ToArray(),
+                }).ToArray();
 
-                }).ToArray()
-                .OrderByDescending(x => x.SpentMoney);
+            var dto = customers.OrderByDescending(x => x.SalesInfo.Sum(x => x.Prices))
+                .Select(x => new Customer2()
+                {
+                    FullName = x.FullName,
+                    BoughtCar = x.BoughtCars,
+                    SpentMoney = x.SalesInfo.Sum(x => x.Prices).ToString("f2")
+                }).ToArray();
 
-            return ser.Serialize(customers, "customers");
-
+            return ser.Serialize(dto, "customers");
         }
 
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            IMapper mapper = CreateMapper();
+            var ser = new XMLHelper();
 
+            var sales = context.Sales
+                .Select(x => new Sale19()
+                {
+                    Car = new Car19() { Make = x.Car.Make, Model = x.Car.Model, TraveledDistance = x.Car.TraveledDistance },
+                    Discount = x.Discount,
+                    CustomerName = x.Customer.Name,
+                    Price = x.Car.PartsCars.Sum(x=>x.Part.Price),
+                    PriceWithDiscount = Math.Round((double)(x.Car.PartsCars.Sum(x =>x.Part.Price)*(1-x.Discount/100)),4)
+
+                }).ToArray();
+
+            return ser.Serialize(sales, "sales");
+
+        }
 
 
         public static IMapper CreateMapper()

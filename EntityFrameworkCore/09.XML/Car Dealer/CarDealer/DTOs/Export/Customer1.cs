@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using System.Xml.Serialization;
 
 namespace CarDealer.DTOs.Export
@@ -16,7 +12,7 @@ namespace CarDealer.DTOs.Export
         public int BoughtCar { get; set; }
 
         [XmlAttribute("spent-money")]
-        public decimal SpentMoney { get; set; }
+        public double SpentMoney { get; set; }
 
     }
 }
