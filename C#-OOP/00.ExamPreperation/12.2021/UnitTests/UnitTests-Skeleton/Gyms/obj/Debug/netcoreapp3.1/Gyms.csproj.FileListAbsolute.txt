@@ -1,0 +1,13 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\12.2021\UnitTests\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

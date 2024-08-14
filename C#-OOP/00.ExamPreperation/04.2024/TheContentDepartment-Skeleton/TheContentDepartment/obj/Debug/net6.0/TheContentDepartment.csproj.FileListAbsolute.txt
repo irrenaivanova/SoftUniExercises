@@ -1,0 +1,14 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\bin\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\refint\TheContentDepartment.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\TheContentDepartment.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\C#-OOP\00.ExamPreperation\04.2024\TheContentDepartment-Skeleton\TheContentDepartment\obj\Debug\net6.0\ref\TheContentDepartment.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E3A2A9mbpC9At5hcSZC85+Wqz0iexVWGrd5Xd2SCzRxgbDTZfPAQ+7af9KLv2C6SWfrF8Cvo9xVjVtpQmfRNrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\C#-OOP\\00.ExamPreperation\\12.2021\\UnitTests\\UnitTests-Skeleton\\Gyms\\Gyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
