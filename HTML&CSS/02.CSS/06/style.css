@@ -1,0 +1,18 @@
+* {
+    background-color:rgb(237,237,237);
+}
+
+h2{
+    background-color:rgb(59,81,107);
+    font-weight:300px;
+    font-size: 25px;
+    color:white;
+    text-decoration: underline;
+    padding: 20px;
+    border-radius: 8px;
+    letter-spacing: 3px;
+}
+
+section{
+width: 500px;
+}

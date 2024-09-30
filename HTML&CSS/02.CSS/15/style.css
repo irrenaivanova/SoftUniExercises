@@ -1,0 +1,89 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    margin: 50px;
+    border: 2px solid black;
+}
+
+h1{
+    border:1px solid black;
+    text-align: center;
+    padding: 10px;
+    margin-bottom:20px;
+    position: relative;
+    margin:0px auto;
+}
+.logo {
+  color: rgb(59,74,107);
+}
+
+.timeline-content{
+    position: relative;
+    margin:0 auto;
+    max-width: 800px;
+} 
+
+/* heading{
+display:flex;
+justify-content: center;
+margin-bottom: 0px;
+} */
+
+header{
+    position: relative;
+    margin:0px auto;
+}
+
+section{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
+
+article{
+    width:40%;
+    padding:0px 20px;
+    position: relative;
+}
+
+h3{
+   margin: 0px;
+}
+
+.left{
+    text-align: right;
+    position:relative;
+}
+
+
+
+.left::after{
+    content: '';
+    position: absolute;  
+    top:0px;
+    right:-1px;
+    width:2px;
+    height:100%;
+    background-color: red;
+}
+
+.right {
+    position: relative;
+}
+
+.right ::before {
+    content: '';
+    position: absolute; 
+    width:12px;
+    height:12px;
+    left:-5px;
+    top:5px;
+    background-color: yellow;
+    border-radius:50%;
+    border: 2px solid black;
+}

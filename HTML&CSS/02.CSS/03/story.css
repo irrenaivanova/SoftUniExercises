@@ -1,0 +1,11 @@
+main {
+    width:400px;
+    border: 1px solid black;
+    color:rgb(152,45,3);
+    background-color: rgb(221,221,221);
+    text-align: justify;
+    padding: 12px;
+}
+h1{
+    text-align: center;
+}

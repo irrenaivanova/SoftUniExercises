@@ -1,0 +1,34 @@
+section{
+    background-color: lightgray;
+    width:400px;
+    padding:40px;
+    border:1px solid black;
+}
+
+h2{
+    margin: 5px;
+}
+
+button{
+    border-radius: 14px;
+    border:2px solid black;
+    padding: 8px 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article{
+    margin: 20px;
+}
+.filled button{
+   background-color: black;
+   color: white;
+}
+
+.green{
+    background-color: green; 
+}
+
+button:hover {
+    background-color: red;
+    cursor: pointer;
+}

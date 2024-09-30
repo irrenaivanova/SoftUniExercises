@@ -1,0 +1,21 @@
+table{
+    width: 300px;
+    border: 0px;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgb(173,216,230) ;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+}
+tbody{
+text-align: left;
+}   
+
+th,td{
+    padding: 3px;
+    border:1px solid black;
+    border-collapse: collapse;
+}

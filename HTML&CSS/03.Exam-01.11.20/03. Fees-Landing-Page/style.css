@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    margin:0px;
+
+}
+*,*::before,*::after {
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family:"Montserrat", system-ui;
+    font-weight: 500;
+}
+
+.container {
+    max-width: 1300px;
+    margin:0px auto;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+.nav-logo{
+    min-width:150px;
+}
+.nav-logo img{
+    width:100%;
+}
+.nav-list{
+    display: flex;
+}
+.nav-list li{
+    list-style-type: none;
+} 
+.nav-list li a{
+    text-decoration: none;
+    color:rgb(84,84,109);
+    margin:20px 8px;
+}
+
+.tax{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+background-color: rgb(84,84,198);
+padding:50px;
+max-height: 400px;
+}
+
+h1{
+flex-basis: 100%;
+text-align: center;
+color:white;
+position:absolute;
+
+}
+
+h3{
+    color: rgb(84,84,198);
+    text-align: center;
+    margin-bottom: 20px;
+    flex-basis: 100%;
+}
+
+.program{
+    background-color: white;
+    border-radius: 12px;
+    width:25%;
+    max-width: 400px;
+    margin: 30px;
+    text-align: center;
+    position:relative;
+    top:100px;
+}
+
+.tax::before {
+    content:'';
+    background: url('images/calculator-icon.svg');
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left:0;
+}
+
+button{
+    color:white;
+    background-color: blue;
+    border-radius: 20px;
+    border: none;
+    padding:12px 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 32px;
+    box-shadow: 1px 1px 5px  black;
+}
+
+p{
+    padding: 5px;
+}
+.footer{
+    color: white;
+    background: linear-gradient(90deg, rgba(5,157,63,1) 0%, rgba(72,212,125,1) 100%);
+    padding:26px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.flexf{
+    display: flex;
+}

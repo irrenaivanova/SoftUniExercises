@@ -1,0 +1,19 @@
+
+main {
+    width:500px;
+    height:800px;
+    background-color: rgb(166,225,236);
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px; 
+}
+section article {
+    border: 1px solid black; 
+    padding: 15px;
+    margin:3px;
+}
+
+ article img, article p {
+    display: inline-block;
+    vertical-align: middle;
+}

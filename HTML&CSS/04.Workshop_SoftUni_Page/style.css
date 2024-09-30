@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+}
+*, *::after, *::before{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat", sans-serif;
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    max-width: 1400px;
+    max-height: 50px;
+    padding:5px;
+    margin: 0 auto;
+    
+}
+header{
+    border-bottom: 1px solid  #9B5DC6;;
+    padding-bottom: 20px;
+    box-shadow: 0px 0px 10px -5px black;
+}
+
+.logo{
+    height: 100%;
+    padding:8px;
+}
+
+.nav{
+    display: flex;
+    list-style-type: none;   
+}
+
+.nav li{
+    padding:8px;
+}
+
+.nav li a{
+   text-decoration: none;
+   color: #54546D;
+}
+
+.btn{
+    color:white;
+    background-color: #9B5DC6;
+    border:none;
+    border-radius:20px;
+    padding:0px 18px;
+    margin-left:10px;
+    box-shadow: 0px 0px 10px -5px black;
+}
+
+.half-circle-container {
+    position: relative;
+    width: 100px; /* Width of the container */
+    height: 50px; /* Height of the half-circle */
+    overflow: hidden; /* Clips the pseudo-element */
+}
+.half-circle-container::before {
+    content: '';
+    position: absolute;
+    width: 100px; /* Full width of the circle */
+    height: 100px; /* Full height of the circle */
+    border-radius: 50%; /* Makes it circular */
+    background-color: #ff6347; /* Color of the half-circle */
+    top: 0; /* Positioning inside the container */
+    left: 0;
+}
