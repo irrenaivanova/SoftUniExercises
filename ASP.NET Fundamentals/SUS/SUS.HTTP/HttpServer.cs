@@ -1,24 +1,15 @@
 ﻿using SUS.HTTP;
+using System.Data;
 using System.Net.Sockets;
 using System.Text;
 
 public class HttpServer:IHttpServer
 {
-    
-    IDictionary<string, Func<HttpRequest, HttpResponse>> 
-        routeTable = new Dictionary<string, Func<HttpRequest, HttpResponse>>();
- 
 
-    public void AddRoute(string path,Func<HttpRequest,HttpResponse> action)
+    List<Route> routeTable;
+    public HttpServer(List<Route> routeTable)
     {
-        if (!routeTable.ContainsKey(path)) 
-        {
-            routeTable.Add(path,action);
-        }
-        else
-        {
-            routeTable[path] = action;
-        }
+      this.routeTable = routeTable;
     }
 
     public async Task StartAsync(int port)
@@ -57,13 +48,14 @@ public class HttpServer:IHttpServer
         }
         string requestString = Encoding.UTF8.GetString(data.ToArray());
         var request = new HttpRequest(requestString);
+        
         Console.WriteLine(requestString);
 
         HttpResponse response;
-        if (routeTable.ContainsKey(request.Path))
+        var route = routeTable.FirstOrDefault(x => string.Compare(x.Name,request.Path,true)==0 && x.Method==request.Method);
+        if (route != null)
         {
-            var action = routeTable[request.Path];
-            response = action(request);
+            response = route.Action(request);
         }
         else
         {

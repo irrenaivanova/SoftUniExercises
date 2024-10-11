@@ -1,0 +1,11 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\bin\Debug\net6.0\CinemaApp.Web.Constants.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\bin\Debug\net6.0\CinemaApp.Web.Constants.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\bin\Debug\net6.0\CinemaApp.Web.Constants.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\refint\CinemaApp.Web.Constants.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\CinemaApp.Web.Constants.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.Web.Constants\obj\Debug\net6.0\ref\CinemaApp.Web.Constants.dll

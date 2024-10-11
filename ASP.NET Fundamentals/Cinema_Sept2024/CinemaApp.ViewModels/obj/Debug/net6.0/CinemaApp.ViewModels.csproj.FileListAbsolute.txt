@@ -1,0 +1,11 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\bin\Debug\net6.0\CinemaApp.ViewModels.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\bin\Debug\net6.0\CinemaApp.ViewModels.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\bin\Debug\net6.0\CinemaApp.ViewModels.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\refint\CinemaApp.ViewModels.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\CinemaApp.ViewModels.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\Cinema_Sept2024\CinemaApp.ViewModels\obj\Debug\net6.0\ref\CinemaApp.ViewModels.dll

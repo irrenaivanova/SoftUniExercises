@@ -16,4 +16,8 @@ C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyF
 C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\obj\Debug\net6.0\MyFirstMvcApp.pdb
 C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\obj\Debug\net6.0\MyFirstMvcApp.genruntimeconfig.cache
 C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\obj\Debug\net6.0\ref\MyFirstMvcApp.dll
-C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\favicon.ico
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\wwwroot\favicon.ico
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\SUS.MvcFramework.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\SUS.MvcFramework.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\Views\Users\Register.cshtml
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ASP.NET Fundamentals\SUS\App\MyFirstMvcApp\bin\Debug\net6.0\Views\Shared\_Layout.cshtml
