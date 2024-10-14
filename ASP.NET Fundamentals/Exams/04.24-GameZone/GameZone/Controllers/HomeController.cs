@@ -8,6 +8,10 @@ namespace GameZone.Controllers
     {
         public IActionResult Index()
         {
+            if (User?.Identity != null && User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction(nameof(GameZone.Controllers.GameController.All),"Game");
+            }
             return View();
         }
 
