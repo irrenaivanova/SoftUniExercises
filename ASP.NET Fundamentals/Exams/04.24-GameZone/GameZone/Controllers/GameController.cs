@@ -176,7 +176,12 @@ namespace GameZone.Controllers
                 return View(model);
             }
            
-            var game = db.Games.Find(id);
+            var game = await db.Games.FindAsync(id);
+            if (game.PublisherId!= GetUserId()) 
+            { 
+                return Unauthorized(); 
+            
+            }
             
             game.Title= model.Title;
             game.ImageUrl= model.ImageUrl;
@@ -189,8 +194,82 @@ namespace GameZone.Controllers
             return RedirectToAction(nameof(All))
 ;        }
 
+        public async Task<IActionResult> Details(int id)
+        {
+            var game = await db.Games.Include(x => x.Genre).Include(x=>x.Publisher).FirstOrDefaultAsync(x=>x.Id==id);
+            if (game==null)
+            {
+                return RedirectToAction(nameof(All));
+            }
+            var model = new DetailsViewModel()
+            {
+                Description = game.Description,
+                ImageUrl= game.ImageUrl,
+                Title = game.Title,
+                Genre = game.Genre.Name,
+                ReleasedOn = game.ReleasedOn.ToString(DateTimeFormat),
+                Publisher= game.Publisher.UserName,
+                Id = game.Id
+            };
 
-            private string GetUserId()
+            return View(model);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var game = await db.Games.Include(x => x.Publisher).FirstOrDefaultAsync(x => x.Id == id);
+            if (game == null)
+            {
+                return RedirectToAction(nameof(All));
+            }
+
+            var model = new DeleteViewModel()
+            {
+                Id = game.Id,
+                Title = game.Title,
+                Publisher = game.Publisher.UserName
+            };
+            return View(model);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> DeleteConfirmed(DeleteViewModel model)
+        {
+            var game = await db.Games.FirstOrDefaultAsync(x=>x.Id==model.Id);
+            if (game == null)
+            {
+                return RedirectToAction(nameof(All));
+            }
+            var gamerGames = await db.GamerGames.Where(x=>x.GameId==game.Id).ToListAsync();
+            db.GamerGames.RemoveRange(gamerGames);
+            db.Games.Remove(game);
+            await db.SaveChangesAsync();
+
+            return RedirectToAction(nameof(All));
+        }
+
+        [HttpGet]
+        public IActionResult GetAvailableTimes(string date)
+        {
+            // Your logic to calculate available times
+            DateTime selectedDate = DateTime.Parse(date);
+            var availableTimes = new List<string>();
+
+            if (selectedDate.DayOfWeek == DayOfWeek.Monday)
+            {
+                availableTimes = new List<string> { "09:00", "10:00", "11:00" };
+            }
+            else
+            {
+                availableTimes = new List<string> { "14:00", "15:00", "16:00" };
+            }
+
+            return Json(new { availableTimes });
+        }
+
+
+        private string GetUserId()
         {
             return User.FindFirst(ClaimTypes.NameIdentifier)?.Value ?? string.Empty; 
         }

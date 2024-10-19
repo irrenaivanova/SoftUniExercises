@@ -26,6 +26,15 @@ namespace GameZone
             })
                 .AddEntityFrameworkStores<GameZoneDbContext>();
             builder.Services.AddControllersWithViews();
+           
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins",
+                    builder => builder.AllowAnyOrigin()
+                                      .AllowAnyMethod()
+                                      .AllowAnyHeader());
+            });
+
 
             var app = builder.Build();
 
@@ -45,6 +54,7 @@ namespace GameZone
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseCors("AllowAllOrigins");
 
             app.UseAuthentication();
             app.UseAuthorization();
