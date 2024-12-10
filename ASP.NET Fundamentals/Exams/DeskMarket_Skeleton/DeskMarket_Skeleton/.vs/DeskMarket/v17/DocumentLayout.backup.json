@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\DeskMarket_Skeleton\\DeskMarket_Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\deskmarket_skeleton\\deskmarket_skeleton\\deskmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54EDF10-945B-4C53-8CBC-B0BFA820F3D1}|DeskMarket\\DeskMarket.csproj|solutionrelative:deskmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\DeskMarket_Skeleton\\DeskMarket_Skeleton\\DeskMarket\\Program.cs",
+              "RelativeDocumentMoniker": "DeskMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\DeskMarket_Skeleton\\DeskMarket_Skeleton\\DeskMarket\\Program.cs",
+              "RelativeToolTip": "DeskMarket\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:01:44.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
