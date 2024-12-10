@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE960F5-3083-4F61-9B82-4BCD52F52DBE}|NewFolder1{CFE960F5-3083-4F61-9B82-4BCD52F52DBE}|C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\IDestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE960F5-3083-4F61-9B82-4BCD52F52DBE}|NewFolder1{CFE960F5-3083-4F61-9B82-4BCD52F52DBE}|solutionrelative:IDestinationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\migrations\\20241210083724_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\migrations\\20241210083724_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\configuration\\userdestinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\configuration\\userdestinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\configuration\\terrainconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\configuration\\terrainconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\models\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\models\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\configuration\\destinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\configuration\\destinationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\models\\userdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\models\\userdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\data\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\data\\models\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\common\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\common\\dataconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\exams\\horizons-skeleton\\horizons\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6162D8-3EB4-4385-B4C5-6DC66FF05B39}|Horizons\\Horizons.csproj|solutionrelative:horizons\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "IDestinationService.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\IDestinationService.cs",
+              "RelativeToolTip": "IDestinationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:44:39.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\appsettings.json",
+              "RelativeDocumentMoniker": "Horizons\\appsettings.json",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\appsettings.json",
+              "RelativeToolTip": "Horizons\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T08:39:14.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241210083724_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Migrations\\20241210083724_Initial.cs",
+              "RelativeDocumentMoniker": "Horizons\\Migrations\\20241210083724_Initial.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Migrations\\20241210083724_Initial.cs",
+              "RelativeToolTip": "Horizons\\Migrations\\20241210083724_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:37:25.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDestinationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\UserDestinationConfiguration.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Configuration\\UserDestinationConfiguration.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\UserDestinationConfiguration.cs",
+              "RelativeToolTip": "Horizons\\Data\\Configuration\\UserDestinationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:32:06.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TerrainConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\TerrainConfiguration.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Configuration\\TerrainConfiguration.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\TerrainConfiguration.cs",
+              "RelativeToolTip": "Horizons\\Data\\Configuration\\TerrainConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:28:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDestination.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\UserDestination.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Models\\UserDestination.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\UserDestination.cs",
+              "RelativeToolTip": "Horizons\\Data\\Models\\UserDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:06:11.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\Terrain.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Models\\Terrain.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\Terrain.cs",
+              "RelativeToolTip": "Horizons\\Data\\Models\\Terrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:06:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\Destination.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Models\\Destination.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Models\\Destination.cs",
+              "RelativeToolTip": "Horizons\\Data\\Models\\Destination.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:05:51.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\DestinationConfiguration.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\Configuration\\DestinationConfiguration.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\Configuration\\DestinationConfiguration.cs",
+              "RelativeToolTip": "Horizons\\Data\\Configuration\\DestinationConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:05:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Horizons\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Horizons\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:53:00.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Horizons\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Horizons\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:45:05.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataConstants.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Common\\DataConstants.cs",
+              "RelativeDocumentMoniker": "Horizons\\Common\\DataConstants.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\Exams\\Horizons-Skeleton\\Horizons\\Common\\DataConstants.cs",
+              "RelativeToolTip": "Horizons\\Common\\DataConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:44:40.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

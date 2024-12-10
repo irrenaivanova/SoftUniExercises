@@ -9,7 +9,11 @@ namespace Horizons.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            if (!(User.Identity?.IsAuthenticated ?? false))
+            {
+                return View();
+            }
+            return RedirectToAction("Index", "Destinations");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
