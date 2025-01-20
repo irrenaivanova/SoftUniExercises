@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8121EF-294F-43E6-B9D9-1C5AB3B9E34E}|10.Crossroads\\10.Crossroads.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8121EF-294F-43E6-B9D9-1C5AB3B9E34E}|10.Crossroads\\10.Crossroads.csproj|solutionrelative:10.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC038795-D9C1-4FBA-A3AF-54CB265BDFF5}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC038795-D9C1-4FBA-A3AF-54CB265BDFF5}|09.SimpleTextEditor\\09.SimpleTextEditor.csproj|solutionrelative:09.simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8EC9EA-4739-41F7-AF16-78610F481176}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8EC9EA-4739-41F7-AF16-78610F481176}|08.BalancedParenthesis\\08.BalancedParenthesis.csproj|solutionrelative:08.balancedparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A4849B-0B1D-49F4-925A-D461AB6B7E18}|08b.TheOtherParenthesis\\08b.TheOtherParenthesis.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\08b.theotherparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A4849B-0B1D-49F4-925A-D461AB6B7E18}|08b.TheOtherParenthesis\\08b.TheOtherParenthesis.csproj|solutionrelative:08b.theotherparenthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Final\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:07Final\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340B5B0D-D0C6-4734-8EFB-502C174C9402}|07.TruckTour\\07.TruckTour.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340B5B0D-D0C6-4734-8EFB-502C174C9402}|07.TruckTour\\07.TruckTour.csproj|solutionrelative:07.trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8889DF-3454-4666-B712-DBA94CF53CC5}|06.SongsQueue\\06.SongsQueue.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8889DF-3454-4666-B712-DBA94CF53CC5}|06.SongsQueue\\06.SongsQueue.csproj|solutionrelative:06.songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F642050-3E58-49C6-942E-6BDD70A6A9B1}|05.FashionBoutique\\05.FashionBoutique.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\05.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F642050-3E58-49C6-942E-6BDD70A6A9B1}|05.FashionBoutique\\05.FashionBoutique.csproj|solutionrelative:05.fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DC4CA9-0183-420A-80D2-E48049C113FB}|04.FastFood\\04.FastFood.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DC4CA9-0183-420A-80D2-E48049C113FB}|04.FastFood\\04.FastFood.csproj|solutionrelative:04.fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC00CBD-84B9-4ED0-839A-59497502BAD4}|03.MaximumandMinimumElement\\03.MaximumandMinimumElement.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\03.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC00CBD-84B9-4ED0-839A-59497502BAD4}|03.MaximumandMinimumElement\\03.MaximumandMinimumElement.csproj|solutionrelative:03.maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33698B1F-AA23-4E91-B9A3-269C0FCC6030}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33698B1F-AA23-4E91-B9A3-269C0FCC6030}|02.BasicQueueOperations\\02.BasicQueueOperations.csproj|solutionrelative:02.basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAEE5B8E-BD66-41E4-A987-4C9C27921BFF}|01.BasicStackOperations\\01.BasicStackOperations.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAEE5B8E-BD66-41E4-A987-4C9C27921BFF}|01.BasicStackOperations\\01.BasicStackOperations.csproj|solutionrelative:01.basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940F813-8418-4697-9813-6C6032542EC7}|00.Test\\00.Test.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\01.lineardatastructure\\00.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940F813-8418-4697-9813-6C6032542EC7}|00.Test\\00.Test.csproj|solutionrelative:00.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Q\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:07Q\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\03.MaximumandMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "03.MaximumandMinimumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\03.MaximumandMinimumElement\\Program.cs",
+              "RelativeToolTip": "03.MaximumandMinimumElement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:16:01.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\04.FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "04.FastFood\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\04.FastFood\\Program.cs",
+              "RelativeToolTip": "04.FastFood\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:16:26.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\05.FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "05.FashionBoutique\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\05.FashionBoutique\\Program.cs",
+              "RelativeToolTip": "05.FashionBoutique\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:16:39.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\06.SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "06.SongsQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\06.SongsQueue\\Program.cs",
+              "RelativeToolTip": "06.SongsQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:16:55.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07.TruckTour\\Program.cs",
+              "RelativeDocumentMoniker": "07.TruckTour\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07.TruckTour\\Program.cs",
+              "RelativeToolTip": "07.TruckTour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:17:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\08b.TheOtherParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08b.TheOtherParenthesis\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\08b.TheOtherParenthesis\\Program.cs",
+              "RelativeToolTip": "08b.TheOtherParenthesis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:17:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\08.BalancedParenthesis\\Program.cs",
+              "RelativeDocumentMoniker": "08.BalancedParenthesis\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\08.BalancedParenthesis\\Program.cs",
+              "RelativeToolTip": "08.BalancedParenthesis\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:17:27.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\09.SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "09.SimpleTextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\09.SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "09.SimpleTextEditor\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:18:06.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\10.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "10.Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\10.Crossroads\\Program.cs",
+              "RelativeToolTip": "10.Crossroads\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:18:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\02.BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02.BasicQueueOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\02.BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "02.BasicQueueOperations\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:15:41.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\01.BasicStackOperations\\Program.cs",
+              "RelativeDocumentMoniker": "01.BasicStackOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\01.BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "01.BasicStackOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:15:20.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Final\\Program.cs",
+              "RelativeDocumentMoniker": "07Final\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Final\\Program.cs",
+              "RelativeToolTip": "07Final\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:07:32.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Q\\Program.cs",
+              "RelativeDocumentMoniker": "07Q\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\07Q\\Program.cs",
+              "RelativeToolTip": "07Q\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:02:30.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\00.Test\\Program.cs",
+              "RelativeDocumentMoniker": "00.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01.LinearDataStructure\\00.Test\\Program.cs",
+              "RelativeToolTip": "00.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:05:41.563Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

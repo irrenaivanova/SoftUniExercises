@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\bin\Debug\net8.0\05.FashionBoutique.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\refint\05.FashionBoutique.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\05.FashionBoutique.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\05.FashionBoutique\obj\Debug\net8.0\ref\05.FashionBoutique.dll

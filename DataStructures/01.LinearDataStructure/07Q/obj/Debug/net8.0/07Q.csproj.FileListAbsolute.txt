@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\bin\Debug\net8.0\07Q.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\bin\Debug\net8.0\07Q.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\bin\Debug\net8.0\07Q.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\bin\Debug\net8.0\07Q.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\bin\Debug\net8.0\07Q.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\refint\07Q.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\07Q.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07Q\obj\Debug\net8.0\ref\07Q.dll

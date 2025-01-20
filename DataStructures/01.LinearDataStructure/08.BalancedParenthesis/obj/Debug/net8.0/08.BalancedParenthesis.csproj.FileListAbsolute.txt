@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\bin\Debug\net8.0\08.BalancedParenthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\refint\08.BalancedParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\08.BalancedParenthesis.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08.BalancedParenthesis\obj\Debug\net8.0\ref\08.BalancedParenthesis.dll

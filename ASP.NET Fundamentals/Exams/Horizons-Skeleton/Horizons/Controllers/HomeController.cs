@@ -13,7 +13,7 @@ namespace Horizons.Controllers
             {
                 return View();
             }
-            return RedirectToAction("Index", "Destinations");
+            return RedirectToAction("Index", "Destination");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

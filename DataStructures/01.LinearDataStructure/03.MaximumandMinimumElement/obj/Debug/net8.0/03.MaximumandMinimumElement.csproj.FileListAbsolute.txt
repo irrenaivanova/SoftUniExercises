@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\bin\Debug\net8.0\03.MaximumandMinimumElement.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\bin\Debug\net8.0\03.MaximumandMinimumElement.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\bin\Debug\net8.0\03.MaximumandMinimumElement.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\bin\Debug\net8.0\03.MaximumandMinimumElement.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\bin\Debug\net8.0\03.MaximumandMinimumElement.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\refint\03.MaximumandMinimumElement.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\03.MaximumandMinimumElement.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\03.MaximumandMinimumElement\obj\Debug\net8.0\ref\03.MaximumandMinimumElement.dll

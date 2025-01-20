@@ -1,4 +1,5 @@
 using Horizons.Data;
+using Horizons.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,7 +18,7 @@ namespace DeskMarket
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
             //services
-            //builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IDestinationService, DestinationService>();
             builder.Services.AddDefaultIdentity<IdentityUser>(options =>
             {
                 options.SignIn.RequireConfirmedAccount = false;

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\bin\Debug\net8.0\10.Crossroads.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\bin\Debug\net8.0\10.Crossroads.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\bin\Debug\net8.0\10.Crossroads.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\bin\Debug\net8.0\10.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\bin\Debug\net8.0\10.Crossroads.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\refint\10.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\10.Crossroads.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\10.Crossroads\obj\Debug\net8.0\ref\10.Crossroads.dll

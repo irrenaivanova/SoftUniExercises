@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\bin\Debug\net8.0\08b.TheOtherParenthesis.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\bin\Debug\net8.0\08b.TheOtherParenthesis.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\bin\Debug\net8.0\08b.TheOtherParenthesis.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\bin\Debug\net8.0\08b.TheOtherParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\bin\Debug\net8.0\08b.TheOtherParenthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\refint\08b.TheOtherParenthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\08b.TheOtherParenthesis.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\08b.TheOtherParenthesis\obj\Debug\net8.0\ref\08b.TheOtherParenthesis.dll

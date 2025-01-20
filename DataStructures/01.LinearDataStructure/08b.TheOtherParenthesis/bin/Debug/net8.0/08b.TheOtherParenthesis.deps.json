@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "08b.TheOtherParenthesis/1.0.0": {
+        "runtime": {
+          "08b.TheOtherParenthesis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08b.TheOtherParenthesis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

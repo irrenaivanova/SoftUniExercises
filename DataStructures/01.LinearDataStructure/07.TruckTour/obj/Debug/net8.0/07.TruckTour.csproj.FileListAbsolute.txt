@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\bin\Debug\net8.0\07.TruckTour.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\bin\Debug\net8.0\07.TruckTour.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\bin\Debug\net8.0\07.TruckTour.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\bin\Debug\net8.0\07.TruckTour.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\bin\Debug\net8.0\07.TruckTour.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\refint\07.TruckTour.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\07.TruckTour.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01.LinearDataStructure\07.TruckTour\obj\Debug\net8.0\ref\07.TruckTour.dll
