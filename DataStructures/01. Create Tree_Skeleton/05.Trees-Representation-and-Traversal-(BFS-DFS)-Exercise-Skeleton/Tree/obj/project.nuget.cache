@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xNU2/ULG34E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\01. Create Tree_Skeleton\\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\\Tree\\Tree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schhh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\schhh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

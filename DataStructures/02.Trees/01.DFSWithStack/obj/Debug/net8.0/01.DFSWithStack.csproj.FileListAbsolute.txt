@@ -1,0 +1,14 @@
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\bin\Debug\net8.0\01.DFSWithStack.exe
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\bin\Debug\net8.0\01.DFSWithStack.deps.json
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\bin\Debug\net8.0\01.DFSWithStack.runtimeconfig.json
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\bin\Debug\net8.0\01.DFSWithStack.dll
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\bin\Debug\net8.0\01.DFSWithStack.pdb
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.AssemblyInfoInputs.cache
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.AssemblyInfo.cs
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.csproj.CoreCompileInputs.cache
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.dll
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\refint\01.DFSWithStack.dll
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.pdb
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\01.DFSWithStack.genruntimeconfig.cache
+C:\Users\schhh\source\repos\02.Trees\01.DFSWithStack\obj\Debug\net8.0\ref\01.DFSWithStack.dll

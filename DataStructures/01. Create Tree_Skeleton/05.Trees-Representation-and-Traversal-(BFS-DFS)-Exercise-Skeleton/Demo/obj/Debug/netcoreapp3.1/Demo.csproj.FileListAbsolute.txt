@@ -1,0 +1,50 @@
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/bin/Debug/netcoreapp3.1/Tree.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.deps.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.runtimeconfig.dev.json
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Tree.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/bin/Debug/netcoreapp3.1/Tree.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.AssemblyReference.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfoInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.AssemblyInfo.cs
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CoreCompileInputs.cache
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.csproj.CopyComplete
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.dll
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.pdb
+/Users/ssheytanov/Desktop/05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Solution/Demo/obj/Debug/netcoreapp3.1/Demo.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Tree.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\bin\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.Up2Date
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\01. Create Tree_Skeleton\05.Trees-Representation-and-Traversal-(BFS-DFS)-Exercise-Skeleton\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache

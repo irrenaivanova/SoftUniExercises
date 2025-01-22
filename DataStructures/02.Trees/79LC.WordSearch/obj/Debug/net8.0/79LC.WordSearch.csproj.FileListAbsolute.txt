@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\bin\Debug\net8.0\79LC.WordSearch.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\bin\Debug\net8.0\79LC.WordSearch.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\bin\Debug\net8.0\79LC.WordSearch.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\bin\Debug\net8.0\79LC.WordSearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\bin\Debug\net8.0\79LC.WordSearch.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\refint\79LC.WordSearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\79LC.WordSearch.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\02.Trees\79LC.WordSearch\obj\Debug\net8.0\ref\79LC.WordSearch.dll
