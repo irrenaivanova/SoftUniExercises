@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\bin\Debug\net8.0\03.Fibonachi.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\bin\Debug\net8.0\03.Fibonachi.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\bin\Debug\net8.0\03.Fibonachi.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\bin\Debug\net8.0\03.Fibonachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\bin\Debug\net8.0\03.Fibonachi.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\refint\03.Fibonachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\03.Fibonachi.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\Fibonachi\obj\Debug\net8.0\ref\03.Fibonachi.dll

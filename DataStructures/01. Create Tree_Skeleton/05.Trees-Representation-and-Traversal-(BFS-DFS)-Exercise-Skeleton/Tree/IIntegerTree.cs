@@ -5,8 +5,8 @@ namespace Tree
 {
     public interface IIntegerTree: IAbstractTree<int>
     {
-        IEnumerable<IEnumerable<int>> GetPathsWithGivenSum(int sum);
+        List<List<int>> GetPathsWithGivenSum(int sum);
 
-        IEnumerable<Tree<int>> GetSubtreesWithGivenSum(int sum);
+        List<List<int>> GetSubtreesWithGivenSum(int sum);
     }
 }

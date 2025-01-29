@@ -33,6 +33,15 @@
 
             
             Console.WriteLine($"Longest path {string.Join(" ",tree.GetLongestPath().Reverse())}");
+
+            var paths = tree.GetPathsWithGivenSum(27);
+            Console.WriteLine($"Paths with sum {string.Join("\n",paths.Select(x => string.Join(" ",x)))}");
+
+            var pathsDFS = tree.GetPathsWithGivenSumDFS(27);
+            Console.WriteLine($"All paths {string.Join("\n", pathsDFS.Select(x => string.Join(" ", x)))}");
+
+            var subTrees = tree.GetPathsWithGivenSumDFS(43);
+            Console.WriteLine($"All paths {string.Join("\n", subTrees.Select(x => string.Join(" ", x)))}");
         }
     }
 }

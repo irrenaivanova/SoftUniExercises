@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\bin\Debug\net8.0\01.Sum.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\bin\Debug\net8.0\01.Sum.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\bin\Debug\net8.0\01.Sum.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\bin\Debug\net8.0\01.Sum.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\bin\Debug\net8.0\01.Sum.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\refint\01.Sum.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\01.Sum.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\01.Sum\obj\Debug\net8.0\ref\01.Sum.dll

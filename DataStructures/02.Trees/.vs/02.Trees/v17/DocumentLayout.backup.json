@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64F53565-D3FD-469F-B70E-503CF1F0D18F}|TreeExercise\\TreeExercise.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\treeexercise\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F53565-D3FD-469F-B70E-503CF1F0D18F}|TreeExercise\\TreeExercise.csproj|solutionrelative:treeexercise\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F53565-D3FD-469F-B70E-503CF1F0D18F}|TreeExercise\\TreeExercise.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\treeexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F53565-D3FD-469F-B70E-503CF1F0D18F}|TreeExercise\\TreeExercise.csproj|solutionrelative:treeexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\01.dfswithstack\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|solutionrelative:01.dfswithstack\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5546075-E894-4D9D-A9D7-96775A3CB585}|79LC.WordSearch\\79LC.WordSearch.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\79lc.wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5546075-E894-4D9D-A9D7-96775A3CB585}|79LC.WordSearch\\79LC.WordSearch.csproj|solutionrelative:79lc.wordsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\01.dfswithstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|solutionrelative:01.dfswithstack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\01.dfswithstack\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|solutionrelative:01.dfswithstack\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63EECADE-5449-47A7-B181-46BCE6B8EBF6}|01.DFSWithStack\\01.DFS.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\02.trees\\01.dfswithstack\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 181,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +54,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\TreeExercise\\Node.cs",
+              "RelativeDocumentMoniker": "TreeExercise\\Node.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\TreeExercise\\Node.cs",
+              "RelativeToolTip": "TreeExercise\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:02:44.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\TreeExercise\\Program.cs",
+              "RelativeDocumentMoniker": "TreeExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\TreeExercise\\Program.cs",
+              "RelativeToolTip": "TreeExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:02:14.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\01.DFSWithStack\\Node.cs",
               "RelativeDocumentMoniker": "01.DFSWithStack\\Node.cs",
@@ -58,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "01.DFS.csproj",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\01.DFSWithStack\\01.DFS.csproj",
               "RelativeDocumentMoniker": "01.DFSWithStack\\01.DFS.csproj",
@@ -76,13 +110,14 @@
               "RelativeDocumentMoniker": "01.DFSWithStack\\Tree.cs",
               "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\01.DFSWithStack\\Tree.cs",
               "RelativeToolTip": "01.DFSWithStack\\Tree.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwCMAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:26:27.481Z"
+              "WhenOpened": "2025-01-21T13:26:27.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\79LC.WordSearch\\Program.cs",
               "RelativeDocumentMoniker": "79LC.WordSearch\\Program.cs",
@@ -95,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\02.Trees\\01.DFSWithStack\\Program.cs",
               "RelativeDocumentMoniker": "01.DFSWithStack\\Program.cs",
@@ -103,12 +138,7 @@
               "RelativeToolTip": "01.DFSWithStack\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T08:56:32.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2025-01-20T08:56:32.056Z"
             }
           ]
         },

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\bin\Debug\net8.0\02.NFactorial.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\bin\Debug\net8.0\02.NFactorial.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\bin\Debug\net8.0\02.NFactorial.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\bin\Debug\net8.0\02.NFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\bin\Debug\net8.0\02.NFactorial.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\refint\02.NFactorial.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\02.NFactorial.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\NFactorial\obj\Debug\net8.0\ref\02.NFactorial.dll
