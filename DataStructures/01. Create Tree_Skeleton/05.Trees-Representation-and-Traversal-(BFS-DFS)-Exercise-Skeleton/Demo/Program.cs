@@ -40,8 +40,10 @@
             var pathsDFS = tree.GetPathsWithGivenSumDFS(27);
             Console.WriteLine($"All paths {string.Join("\n", pathsDFS.Select(x => string.Join(" ", x)))}");
 
-            var subTrees = tree.GetPathsWithGivenSumDFS(43);
+            var subTrees = tree.GetSubtreesWithGivenSum(43);
             Console.WriteLine($"All paths {string.Join("\n", subTrees.Select(x => string.Join(" ", x)))}");
+
+
         }
     }
 }

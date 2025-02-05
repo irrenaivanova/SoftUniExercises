@@ -84,9 +84,51 @@
 
         public List<List<int>> GetSubtreesWithGivenSum(int sum)
         {
+            List<List<int>> subtrees = new List<List<int>>();
             List<IntegerTree> allNodes = new List<IntegerTree>();
             FindAllNodes(this, allNodes);
-            GiveallChildren();
+            foreach (var node in allNodes)
+            {
+                List<int> values = GetTheSum(node);
+                if (values.Sum() == sum)
+                {
+                    subtrees.Add(values);
+                }
+            }
+            return subtrees;
+        }
+
+        private List<int> GetTheSum(IntegerTree node)
+        {
+            List<int> nodes = new List<int>();
+            Queue<IntegerTree> queue = new Queue<IntegerTree>();
+
+            queue.Enqueue(node);
+            while(queue.Count > 0)
+            {
+                var current = queue.Dequeue();
+                nodes.Add(current.Key);
+                foreach (var child in current.Children)
+                {
+                    queue.Enqueue((IntegerTree)child);
+                }
+            }
+            return nodes;
+        }
+
+        private void FindAllNodes(IntegerTree integerTree, List<IntegerTree> allNodes)
+        {
+            Queue<IntegerTree> queue = new Queue<IntegerTree>();
+            queue.Enqueue(integerTree);
+            while (queue.Count > 0)
+            {
+                var current = queue.Dequeue();
+                allNodes.Add(current);
+                foreach (var child in current.Children)
+                {
+                    queue.Enqueue((IntegerTree)child);
+                }
+            }
         }
     }
 }
