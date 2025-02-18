@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\bin\Debug\net8.0\AllUniqueGroupWithRepetition.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\bin\Debug\net8.0\AllUniqueGroupWithRepetition.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\bin\Debug\net8.0\AllUniqueGroupWithRepetition.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\bin\Debug\net8.0\AllUniqueGroupWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\bin\Debug\net8.0\AllUniqueGroupWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\refint\AllUniqueGroupWithRepetition.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\AllUniqueGroupWithRepetition.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroupWithRepetition\obj\Debug\net8.0\ref\AllUniqueGroupWithRepetition.dll

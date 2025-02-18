@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Sum", "01.Sum\01.Sum.csproj", "{AB384026-AE43-4EA8-8CB4-295F7D95DF4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Sum", "01.Sum\01.Sum.csproj", "{AB384026-AE43-4EA8-8CB4-295F7D95DF4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.NFactorial", "NFactorial\02.NFactorial.csproj", "{88B0016F-B6E3-4C65-9688-E538872A8F50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.NFactorial", "NFactorial\02.NFactorial.csproj", "{88B0016F-B6E3-4C65-9688-E538872A8F50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Fibonachi", "Fibonachi\03.Fibonachi.csproj", "{429E5137-9BDD-46F8-8A85-8EC18A99B50C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Fibonachi", "Fibonachi\03.Fibonachi.csproj", "{429E5137-9BDD-46F8-8A85-8EC18A99B50C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GeneratingAllVectors", "04.RecursiveFactorial\04.GeneratingAllVectors.csproj", "{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.AllVectorwWithoutDublicating", "AllVectorwWithoutDublicating\05.AllVectorwWithoutDublicating.csproj", "{482BABE0-32F2-4A4D-91FC-935B79910FC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.AllUniqueGroups", "AllUniqueGroups\06.AllUniqueGroups.csproj", "{9B716801-D667-40FD-A49C-878E289D2DCC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.AllUniqueGroupWithRepetition", "AllUniqueGroupWithRepetition\07.AllUniqueGroupWithRepetition.csproj", "{D8076215-10D1-489C-BEAF-914B7A2B9B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AllPathsInMaze", "08.AllPathsInMaze\08.AllPathsInMaze.csproj", "{91CAD7B3-C2BD-4644-9693-2581366B3DBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{429E5137-9BDD-46F8-8A85-8EC18A99B50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{429E5137-9BDD-46F8-8A85-8EC18A99B50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{429E5137-9BDD-46F8-8A85-8EC18A99B50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{482BABE0-32F2-4A4D-91FC-935B79910FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482BABE0-32F2-4A4D-91FC-935B79910FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482BABE0-32F2-4A4D-91FC-935B79910FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482BABE0-32F2-4A4D-91FC-935B79910FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B716801-D667-40FD-A49C-878E289D2DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B716801-D667-40FD-A49C-878E289D2DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B716801-D667-40FD-A49C-878E289D2DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B716801-D667-40FD-A49C-878E289D2DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8076215-10D1-489C-BEAF-914B7A2B9B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8076215-10D1-489C-BEAF-914B7A2B9B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8076215-10D1-489C-BEAF-914B7A2B9B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8076215-10D1-489C-BEAF-914B7A2B9B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

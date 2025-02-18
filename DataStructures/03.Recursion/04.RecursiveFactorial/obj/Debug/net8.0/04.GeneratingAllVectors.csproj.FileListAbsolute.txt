@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\bin\Debug\net8.0\04.GeneratingAllVectors.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\bin\Debug\net8.0\04.GeneratingAllVectors.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\bin\Debug\net8.0\04.GeneratingAllVectors.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\bin\Debug\net8.0\04.GeneratingAllVectors.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\bin\Debug\net8.0\04.GeneratingAllVectors.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\refint\04.GeneratingAllVectors.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\04.GeneratingAllVectors.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\04.RecursiveFactorial\obj\Debug\net8.0\ref\04.GeneratingAllVectors.dll

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\bin\Debug\net8.0\01.Extensions.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\bin\Debug\net8.0\01.Extensions.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\bin\Debug\net8.0\01.Extensions.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\bin\Debug\net8.0\01.Extensions.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\bin\Debug\net8.0\01.Extensions.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\refint\01.Extensions.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\01.Extensions.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\01.Extensions\obj\Debug\net8.0\ref\01.Extensions.dll

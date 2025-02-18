@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\bin\Debug\net8.0\06.AllUniqueGroups.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\bin\Debug\net8.0\06.AllUniqueGroups.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\bin\Debug\net8.0\06.AllUniqueGroups.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\bin\Debug\net8.0\06.AllUniqueGroups.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\bin\Debug\net8.0\06.AllUniqueGroups.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\refint\06.AllUniqueGroups.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\06.AllUniqueGroups.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllUniqueGroups\obj\Debug\net8.0\ref\06.AllUniqueGroups.dll

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\bin\Debug\net8.0\AllVectorwWithoutDublicating.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\bin\Debug\net8.0\AllVectorwWithoutDublicating.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\bin\Debug\net8.0\AllVectorwWithoutDublicating.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\bin\Debug\net8.0\AllVectorwWithoutDublicating.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\bin\Debug\net8.0\AllVectorwWithoutDublicating.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\refint\AllVectorwWithoutDublicating.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\AllVectorwWithoutDublicating.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllVectorwWithoutDublicating\obj\Debug\net8.0\ref\AllVectorwWithoutDublicating.dll
