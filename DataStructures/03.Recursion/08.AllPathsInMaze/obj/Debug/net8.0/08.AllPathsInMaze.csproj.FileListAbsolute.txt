@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\bin\Debug\net8.0\08.AllPathsInMaze.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\bin\Debug\net8.0\08.AllPathsInMaze.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\bin\Debug\net8.0\08.AllPathsInMaze.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\bin\Debug\net8.0\08.AllPathsInMaze.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\bin\Debug\net8.0\08.AllPathsInMaze.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\refint\08.AllPathsInMaze.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\08.AllPathsInMaze.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\08.AllPathsInMaze\obj\Debug\net8.0\ref\08.AllPathsInMaze.dll

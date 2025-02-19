@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\bin\Debug\net8.0\02.Strings.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\bin\Debug\net8.0\02.Strings.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\bin\Debug\net8.0\02.Strings.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\bin\Debug\net8.0\02.Strings.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\bin\Debug\net8.0\02.Strings.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\refint\02.Strings.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\02.Strings.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\02.Strings\obj\Debug\net8.0\ref\02.Strings.dll
