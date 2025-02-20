@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.AllUniqueGroups", "AllUn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.AllUniqueGroupWithRepetition", "AllUniqueGroupWithRepetition\07.AllUniqueGroupWithRepetition.csproj", "{D8076215-10D1-489C-BEAF-914B7A2B9B82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AllPathsInMaze", "08.AllPathsInMaze\08.AllPathsInMaze.csproj", "{91CAD7B3-C2BD-4644-9693-2581366B3DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.AllPathsInMaze", "08.AllPathsInMaze\08.AllPathsInMaze.csproj", "{91CAD7B3-C2BD-4644-9693-2581366B3DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllQueensProblem", "AllQueensProblem\AllQueensProblem.csproj", "{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91CAD7B3-C2BD-4644-9693-2581366B3DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

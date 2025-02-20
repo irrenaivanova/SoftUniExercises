@@ -20,6 +20,11 @@ public class MazePathFinder
 
     private void FindPath(int row, int col, string path)
     {
+        if (!IsSafe(row, col))
+        {
+            throw new ArgumentException("Invalid start point");
+        }
+
         if (maze[row][col] == 'E')
         {
             paths.Add(path);

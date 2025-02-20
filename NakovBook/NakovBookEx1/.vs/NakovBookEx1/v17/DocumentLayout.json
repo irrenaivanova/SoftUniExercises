@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2D7E7910-177E-4C61-BB98-B8739F1F4A34}|04.Classes\\04.Classes.csproj|solutionrelative:04.classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F13D8E13-22BB-44F5-9AC8-8E03A0861170}|LeetCodeBFfsAndDfs\\LeetCodeBFfsAndDfs.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\nakovbook\\nakovbookex1\\leetcodebffsanddfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13D8E13-22BB-44F5-9AC8-8E03A0861170}|LeetCodeBFfsAndDfs\\LeetCodeBFfsAndDfs.csproj|solutionrelative:leetcodebffsanddfs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7CB07F5F-6164-4F58-97ED-F5FB537094AD}|03.Strings2\\03.Strings2.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\nakovbook\\nakovbookex1\\03.strings2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CB07F5F-6164-4F58-97ED-F5FB537094AD}|03.Strings2\\03.Strings2.csproj|solutionrelative:03.strings2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +86,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\LeetCodeBFfsAndDfs\\Program.cs",
+              "RelativeDocumentMoniker": "LeetCodeBFfsAndDfs\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\LeetCodeBFfsAndDfs\\Program.cs",
+              "RelativeToolTip": "LeetCodeBFfsAndDfs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:55:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\04.Classes\\Program.cs",
               "RelativeDocumentMoniker": "04.Classes\\Program.cs",
               "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\04.Classes\\Program.cs",
               "RelativeToolTip": "04.Classes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T14:13:30.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UpperCaseMaker.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\03.Strings2\\UpperCaseMaker.cs",
               "RelativeDocumentMoniker": "03.Strings2\\UpperCaseMaker.cs",
@@ -103,12 +120,11 @@
               "RelativeToolTip": "03.Strings2\\UpperCaseMaker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:50:08.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:50:08.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ParenthesesValidator.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\03.Strings2\\ParenthesesValidator.cs",
               "RelativeDocumentMoniker": "03.Strings2\\ParenthesesValidator.cs",
@@ -116,12 +132,11 @@
               "RelativeToolTip": "03.Strings2\\ParenthesesValidator.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAEwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:27:54.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:27:54.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\03.Strings2\\Program.cs",
               "RelativeDocumentMoniker": "03.Strings2\\Program.cs",
@@ -129,12 +144,11 @@
               "RelativeToolTip": "03.Strings2\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAQwCsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T10:26:00.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T10:26:00.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\02.Strings\\Program.cs",
               "RelativeDocumentMoniker": "02.Strings\\Program.cs",
@@ -142,12 +156,11 @@
               "RelativeToolTip": "02.Strings\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T08:57:21.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T08:57:21.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "KeyValue.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\MyDictionary\\KeyValue.cs",
               "RelativeDocumentMoniker": "MyDictionary\\KeyValue.cs",
@@ -159,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MyDictionary.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\MyDictionary\\MyDictionary.cs",
               "RelativeDocumentMoniker": "MyDictionary\\MyDictionary.cs",
@@ -171,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\MyDictionary\\Program.cs",
               "RelativeDocumentMoniker": "MyDictionary\\Program.cs",
@@ -179,12 +192,11 @@
               "RelativeToolTip": "MyDictionary\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T11:59:05.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:59:05.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\01.Extensions\\StringExtensions.cs",
               "RelativeDocumentMoniker": "01.Extensions\\StringExtensions.cs",
@@ -196,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\01.Extensions\\Student.cs",
               "RelativeDocumentMoniker": "01.Extensions\\Student.cs",
@@ -208,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IEnumerableExtension.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\01.Extensions\\IEnumerableExtension.cs",
               "RelativeDocumentMoniker": "01.Extensions\\IEnumerableExtension.cs",
@@ -220,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StringBuilderExtensions.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\01.Extensions\\StringBuilderExtensions.cs",
               "RelativeDocumentMoniker": "01.Extensions\\StringBuilderExtensions.cs",
@@ -232,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\NakovBook\\NakovBookEx1\\01.Extensions\\Program.cs",
               "RelativeDocumentMoniker": "01.Extensions\\Program.cs",

@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using _08.AllPathsInMaze;
+using System.Text;
 
 string[] mazeInput = new string[]
 {
@@ -19,5 +20,13 @@ string[] newInput = new string[]
         "10000010",
         "00111000",
 };
-var maze = new MazePathFinder(newInput);
-Console.WriteLine(string.Join("\n",maze.FindAllPaths(7,0)));
+//var maze = new MazePathFinder(newInput);
+//Console.WriteLine(string.Join("\n",maze.FindAllPaths(7,0)));
+
+var maze2 = new BfsMazeSolver(mazeInput);
+Console.WriteLine(maze2.FindTheShortestPath(0,0));
+
+
+
+
+// https://medium.com/@hanxuyang0826/mastering-dfs-and-bfs-in-c-techniques-implementations-and-leetcode-examples-57dbe66a140c
