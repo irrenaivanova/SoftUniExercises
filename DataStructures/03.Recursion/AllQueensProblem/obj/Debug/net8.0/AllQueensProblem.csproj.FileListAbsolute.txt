@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\bin\Debug\net8.0\AllQueensProblem.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\bin\Debug\net8.0\AllQueensProblem.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\bin\Debug\net8.0\AllQueensProblem.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\bin\Debug\net8.0\AllQueensProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\bin\Debug\net8.0\AllQueensProblem.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\refint\AllQueensProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\AllQueensProblem.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\AllQueensProblem\obj\Debug\net8.0\ref\AllQueensProblem.dll

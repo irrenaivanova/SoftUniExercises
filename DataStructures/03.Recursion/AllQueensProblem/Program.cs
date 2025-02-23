@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using AllQueensProblem;
+
+int n = int.Parse(Console.ReadLine()!);
+
+var solver = new AllQueensSolver(n);
+Console.WriteLine($"The number of unique solutions is: {solver.GetTheNumberOfSolutions()}");
+solver.PrintTheSolutions();
