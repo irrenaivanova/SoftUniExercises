@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\bin\Debug\net8.0\12.AllMnenomicsInPhone.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\bin\Debug\net8.0\12.AllMnenomicsInPhone.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\bin\Debug\net8.0\12.AllMnenomicsInPhone.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\bin\Debug\net8.0\12.AllMnenomicsInPhone.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\bin\Debug\net8.0\12.AllMnenomicsInPhone.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\refint\12.AllMnenomicsInPhone.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\12.AllMnenomicsInPhone.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\12.AllMnenomicsInPhone\obj\Debug\net8.0\ref\12.AllMnenomicsInPhone.dll

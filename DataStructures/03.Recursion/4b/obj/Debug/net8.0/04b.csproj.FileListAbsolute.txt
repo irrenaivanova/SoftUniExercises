@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\bin\Debug\net8.0\04b.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\bin\Debug\net8.0\04b.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\bin\Debug\net8.0\04b.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\bin\Debug\net8.0\04b.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\bin\Debug\net8.0\04b.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\refint\04b.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\04b.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\4b\obj\Debug\net8.0\ref\04b.dll

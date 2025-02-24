@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\08.AllPathsInMaze.csproj",
-      "projectName": "08.AllPathsInMaze",
-      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\08.AllPathsInMaze.csproj",
+      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\10.AllPathsInMaze.csproj",
+      "projectName": "10.AllPathsInMaze",
+      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\10.AllPathsInMaze.csproj",
       "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\obj\\",
       "projectStyle": "PackageReference",

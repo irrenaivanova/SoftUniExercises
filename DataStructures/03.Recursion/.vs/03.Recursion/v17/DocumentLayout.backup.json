@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}|AllQueensProblem\\AllQueensProblem.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\allqueensproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}|AllQueensProblem\\AllQueensProblem.csproj|solutionrelative:allqueensproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}|AllQueensProblem\\AllQueensProblem.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\allqueensproblem\\allqueenssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E914B69E-649E-4FAB-B293-4CF5FA18C0DB}|AllQueensProblem\\AllQueensProblem.csproj|solutionrelative:allqueensproblem\\allqueenssolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\08.allpathsinmaze\\bfsmazesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|solutionrelative:08.allpathsinmaze\\bfsmazesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\08.allpathsinmaze\\mazepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|solutionrelative:08.allpathsinmaze\\mazepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\08.allpathsinmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91CAD7B3-C2BD-4644-9693-2581366B3DBA}|08.AllPathsInMaze\\08.AllPathsInMaze.csproj|solutionrelative:08.allpathsinmaze\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}|04.RecursiveFactorial\\04.GeneratingAllVectors.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\04.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7E5CE8D-2435-4E46-AA4D-206FD8340CFF}|04.RecursiveFactorial\\04.GeneratingAllVectors.csproj|solutionrelative:04.recursivefactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{429E5137-9BDD-46F8-8A85-8EC18A99B50C}|Fibonachi\\03.Fibonachi.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429E5137-9BDD-46F8-8A85-8EC18A99B50C}|Fibonachi\\03.Fibonachi.csproj|solutionrelative:fibonachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB384026-AE43-4EA8-8CB4-295F7D95DF4B}|01.Sum\\01.Sum.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\01.sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB384026-AE43-4EA8-8CB4-295F7D95DF4B}|01.Sum\\01.Sum.csproj|solutionrelative:01.sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{261077BC-4782-4280-ACAA-6D6E3FC6DBDE}|13.SudokoSolver\\13.SudokoSolver.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\13.sudokosolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261077BC-4782-4280-ACAA-6D6E3FC6DBDE}|13.SudokoSolver\\13.SudokoSolver.csproj|solutionrelative:13.sudokosolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88B0016F-B6E3-4C65-9688-E538872A8F50}|NFactorial\\02.NFactorial.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\nfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88B0016F-B6E3-4C65-9688-E538872A8F50}|NFactorial\\02.NFactorial.csproj|solutionrelative:nfactorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B716801-D667-40FD-A49C-878E289D2DCC}|AllUniqueGroups\\06.AllUniqueGroups.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\alluniquegroups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B716801-D667-40FD-A49C-878E289D2DCC}|AllUniqueGroups\\06.AllUniqueGroups.csproj|solutionrelative:alluniquegroups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{482BABE0-32F2-4A4D-91FC-935B79910FC3}|AllVectorwWithoutDublicating\\05.AllVectorwWithoutDublicating.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\allvectorwwithoutdublicating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{482BABE0-32F2-4A4D-91FC-935B79910FC3}|AllVectorwWithoutDublicating\\05.AllVectorwWithoutDublicating.csproj|solutionrelative:allvectorwwithoutdublicating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8076215-10D1-489C-BEAF-914B7A2B9B82}|AllUniqueGroupWithRepetition\\07.AllUniqueGroupWithRepetition.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\03.recursion\\alluniquegroupwithrepetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8076215-10D1-489C-BEAF-914B7A2B9B82}|AllUniqueGroupWithRepetition\\07.AllUniqueGroupWithRepetition.csproj|solutionrelative:alluniquegroupwithrepetition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,6 +20,19 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\NFactorial\\Program.cs",
+              "RelativeDocumentMoniker": "NFactorial\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\NFactorial\\Program.cs",
+              "RelativeToolTip": "NFactorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:09:50.737Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -78,149 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AllQueensSolver.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\AllQueensSolver.cs",
-              "RelativeDocumentMoniker": "AllQueensProblem\\AllQueensSolver.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\AllQueensSolver.cs",
-              "RelativeToolTip": "AllQueensProblem\\AllQueensSolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T10:11:34.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\Program.cs",
-              "RelativeDocumentMoniker": "AllQueensProblem\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\Program.cs",
-              "RelativeToolTip": "AllQueensProblem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\13.SudokoSolver\\Program.cs",
+              "RelativeDocumentMoniker": "13.SudokoSolver\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\13.SudokoSolver\\Program.cs*",
+              "RelativeToolTip": "13.SudokoSolver\\Program.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAG4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T11:46:27.58Z",
+              "WhenOpened": "2025-02-24T12:05:35.117Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BfsMazeSolver.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\BfsMazeSolver.cs",
-              "RelativeDocumentMoniker": "08.AllPathsInMaze\\BfsMazeSolver.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\BfsMazeSolver.cs",
-              "RelativeToolTip": "08.AllPathsInMaze\\BfsMazeSolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T10:03:03.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MazePathFinder.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\MazePathFinder.cs",
-              "RelativeDocumentMoniker": "08.AllPathsInMaze\\MazePathFinder.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\MazePathFinder.cs",
-              "RelativeToolTip": "08.AllPathsInMaze\\MazePathFinder.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:10:40.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\Program.cs",
-              "RelativeDocumentMoniker": "08.AllPathsInMaze\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\08.AllPathsInMaze\\Program.cs",
-              "RelativeToolTip": "08.AllPathsInMaze\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T14:49:59.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllUniqueGroupWithRepetition\\Program.cs",
-              "RelativeDocumentMoniker": "AllUniqueGroupWithRepetition\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllUniqueGroupWithRepetition\\Program.cs",
-              "RelativeToolTip": "AllUniqueGroupWithRepetition\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T10:20:08.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllUniqueGroups\\Program.cs",
-              "RelativeDocumentMoniker": "AllUniqueGroups\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllUniqueGroups\\Program.cs",
-              "RelativeToolTip": "AllUniqueGroups\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:59:49.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllVectorwWithoutDublicating\\Program.cs",
-              "RelativeDocumentMoniker": "AllVectorwWithoutDublicating\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllVectorwWithoutDublicating\\Program.cs",
-              "RelativeToolTip": "AllVectorwWithoutDublicating\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:15:43.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\04.RecursiveFactorial\\Program.cs",
-              "RelativeDocumentMoniker": "04.RecursiveFactorial\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\04.RecursiveFactorial\\Program.cs",
-              "RelativeToolTip": "04.RecursiveFactorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:48:17.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\Fibonachi\\Program.cs",
-              "RelativeDocumentMoniker": "Fibonachi\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\Fibonachi\\Program.cs",
-              "RelativeToolTip": "Fibonachi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:19:22.257Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\NFactorial\\Program.cs",
-              "RelativeDocumentMoniker": "NFactorial\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\NFactorial\\Program.cs",
-              "RelativeToolTip": "NFactorial\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:09:50.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\01.Sum\\Program.cs",
-              "RelativeDocumentMoniker": "01.Sum\\Program.cs",
-              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\01.Sum\\Program.cs",
-              "RelativeToolTip": "01.Sum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:21:43.285Z"
             }
           ]
         },

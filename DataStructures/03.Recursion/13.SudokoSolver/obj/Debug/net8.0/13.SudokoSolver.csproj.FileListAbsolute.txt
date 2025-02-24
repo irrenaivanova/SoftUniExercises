@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\bin\Debug\net8.0\13.SudokoSolver.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\bin\Debug\net8.0\13.SudokoSolver.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\bin\Debug\net8.0\13.SudokoSolver.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\bin\Debug\net8.0\13.SudokoSolver.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\bin\Debug\net8.0\13.SudokoSolver.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\refint\13.SudokoSolver.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\13.SudokoSolver.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\03.Recursion\13.SudokoSolver\obj\Debug\net8.0\ref\13.SudokoSolver.dll

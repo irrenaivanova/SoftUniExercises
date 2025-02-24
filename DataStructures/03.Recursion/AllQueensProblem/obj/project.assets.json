@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\AllQueensProblem.csproj",
-      "projectName": "AllQueensProblem",
-      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\AllQueensProblem.csproj",
+      "projectUniqueName": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\11.AllQueensProblem.csproj",
+      "projectName": "11.AllQueensProblem",
+      "projectPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\11.AllQueensProblem.csproj",
       "packagesPath": "C:\\Users\\schhh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\03.Recursion\\AllQueensProblem\\obj\\",
       "projectStyle": "PackageReference",
