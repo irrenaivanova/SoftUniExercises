@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796046C7-EF51-4F20-9CD1-3ECF06890580}|04.MergeSort\\04.MergeSort.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\04.mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796046C7-EF51-4F20-9CD1-3ECF06890580}|04.MergeSort\\04.MergeSort.csproj|solutionrelative:04.mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98689350-9C55-4BB2-A9EF-24D33AB714CF}|02.SelectionSort\\02.SelectionSort.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\02.selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98689350-9C55-4BB2-A9EF-24D33AB714CF}|02.SelectionSort\\02.SelectionSort.csproj|solutionrelative:02.selectionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9D7C55-9BAA-4E46-93A3-A28B7481E816}|09.BinarySearch\\09.BinarySearch.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\09.binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9D7C55-9BAA-4E46-93A3-A28B7481E816}|09.BinarySearch\\09.BinarySearch.csproj|solutionrelative:09.binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8285EF81-8901-4038-B4BE-29BCAD4B512D}|11.PrintArrow\\11.PrintArrow.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\11.printarrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8285EF81-8901-4038-B4BE-29BCAD4B512D}|11.PrintArrow\\11.PrintArrow.csproj|solutionrelative:11.printarrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340797B-B9A1-459E-845A-662D5758B775}|03a.TheRightWay\\03a.TheRightWay.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\03a.therightway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5340797B-B9A1-459E-845A-662D5758B775}|03a.TheRightWay\\03a.TheRightWay.csproj|solutionrelative:03a.therightway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA43B874-E32E-4AB1-95AF-A8C1910CC8B1}|InsertionSort\\InsertionSort.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA43B874-E32E-4AB1-95AF-A8C1910CC8B1}|InsertionSort\\InsertionSort.csproj|solutionrelative:insertionsort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F131195-FD1A-451A-BFE2-ED9A4DEC9C08}|10.PrintPyramid\\10.PrintPyramid.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\10.printpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F131195-FD1A-451A-BFE2-ED9A4DEC9C08}|10.PrintPyramid\\10.PrintPyramid.csproj|solutionrelative:10.printpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17305C1D-84A0-4E77-A4E6-7E2D2EC2B065}|01.BubbleSort\\01.BubbleSort.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\datastructures\\algos\\01.bubblesort\\01.bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17305C1D-84A0-4E77-A4E6-7E2D2EC2B065}|01.BubbleSort\\01.BubbleSort.csproj|solutionrelative:01.bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\04.MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "04.MergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\04.MergeSort\\Program.cs*",
+              "RelativeToolTip": "04.MergeSort\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:10:59.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\09.BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "09.BinarySearch\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\09.BinarySearch\\Program.cs",
+              "RelativeToolTip": "09.BinarySearch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:09:29.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\03a.TheRightWay\\Program.cs",
+              "RelativeDocumentMoniker": "03a.TheRightWay\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\03a.TheRightWay\\Program.cs",
+              "RelativeToolTip": "03a.TheRightWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:57:39.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\11.PrintArrow\\Program.cs",
+              "RelativeDocumentMoniker": "11.PrintArrow\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\11.PrintArrow\\Program.cs",
+              "RelativeToolTip": "11.PrintArrow\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:45:57.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\10.PrintPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "10.PrintPyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\10.PrintPyramid\\Program.cs",
+              "RelativeToolTip": "10.PrintPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:38:18.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\InsertionSort\\Program.cs",
+              "RelativeDocumentMoniker": "InsertionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\InsertionSort\\Program.cs",
+              "RelativeToolTip": "InsertionSort\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:30:43.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\02.SelectionSort\\Program.cs",
+              "RelativeDocumentMoniker": "02.SelectionSort\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\02.SelectionSort\\Program.cs",
+              "RelativeToolTip": "02.SelectionSort\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:02:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\01.BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "01.BubbleSort\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\DataStructures\\Algos\\01.BubbleSort\\01.BubbleSort\\Program.cs",
+              "RelativeToolTip": "01.BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:59:44.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

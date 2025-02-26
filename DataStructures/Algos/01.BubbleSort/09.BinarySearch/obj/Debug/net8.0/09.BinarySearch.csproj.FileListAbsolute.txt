@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\bin\Debug\net8.0\09.BinarySearch.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\bin\Debug\net8.0\09.BinarySearch.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\bin\Debug\net8.0\09.BinarySearch.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\bin\Debug\net8.0\09.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\bin\Debug\net8.0\09.BinarySearch.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\refint\09.BinarySearch.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\09.BinarySearch.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\09.BinarySearch\obj\Debug\net8.0\ref\09.BinarySearch.dll

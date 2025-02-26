@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\bin\Debug\net8.0\03a.TheRightWay.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\bin\Debug\net8.0\03a.TheRightWay.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\bin\Debug\net8.0\03a.TheRightWay.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\bin\Debug\net8.0\03a.TheRightWay.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\bin\Debug\net8.0\03a.TheRightWay.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\refint\03a.TheRightWay.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\03a.TheRightWay.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\03a.TheRightWay\obj\Debug\net8.0\ref\03a.TheRightWay.dll

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\bin\Debug\net8.0\01.BubbleSort.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\bin\Debug\net8.0\01.BubbleSort.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\bin\Debug\net8.0\01.BubbleSort.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\bin\Debug\net8.0\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\bin\Debug\net8.0\01.BubbleSort.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\refint\01.BubbleSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\01.BubbleSort.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\01.BubbleSort\obj\Debug\net8.0\ref\01.BubbleSort.dll

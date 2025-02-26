@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\bin\Debug\net8.0\10.PrintPyramid.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\bin\Debug\net8.0\10.PrintPyramid.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\bin\Debug\net8.0\10.PrintPyramid.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\bin\Debug\net8.0\10.PrintPyramid.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\bin\Debug\net8.0\10.PrintPyramid.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\refint\10.PrintPyramid.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\10.PrintPyramid.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\10.PrintPyramid\obj\Debug\net8.0\ref\10.PrintPyramid.dll

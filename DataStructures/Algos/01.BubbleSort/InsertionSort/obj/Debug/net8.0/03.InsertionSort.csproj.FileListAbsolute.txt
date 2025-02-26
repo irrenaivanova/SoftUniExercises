@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\bin\Debug\net8.0\03.InsertionSort.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\bin\Debug\net8.0\03.InsertionSort.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\bin\Debug\net8.0\03.InsertionSort.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\bin\Debug\net8.0\03.InsertionSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\bin\Debug\net8.0\03.InsertionSort.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\refint\03.InsertionSort.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\03.InsertionSort.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\Algos\01.BubbleSort\InsertionSort\obj\Debug\net8.0\ref\03.InsertionSort.dll
