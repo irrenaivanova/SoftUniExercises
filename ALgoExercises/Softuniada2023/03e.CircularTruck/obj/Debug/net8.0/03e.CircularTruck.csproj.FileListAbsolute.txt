@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\bin\Debug\net8.0\03e.CircularTruck.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\bin\Debug\net8.0\03e.CircularTruck.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\bin\Debug\net8.0\03e.CircularTruck.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\bin\Debug\net8.0\03e.CircularTruck.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\bin\Debug\net8.0\03e.CircularTruck.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\refint\03e.CircularTruck.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\03e.CircularTruck.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03e.CircularTruck\obj\Debug\net8.0\ref\03e.CircularTruck.dll

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\bin\Debug\net8.0\03b.ParantesisSirma.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\bin\Debug\net8.0\03b.ParantesisSirma.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\bin\Debug\net8.0\03b.ParantesisSirma.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\bin\Debug\net8.0\03b.ParantesisSirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\bin\Debug\net8.0\03b.ParantesisSirma.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\refint\03b.ParantesisSirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\03b.ParantesisSirma.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03b.ParantesisSirma\obj\Debug\net8.0\ref\03b.ParantesisSirma.dll

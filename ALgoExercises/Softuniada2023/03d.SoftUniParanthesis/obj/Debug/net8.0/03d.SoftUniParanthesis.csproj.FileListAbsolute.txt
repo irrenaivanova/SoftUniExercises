@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\bin\Debug\net8.0\03d.SoftUniParanthesis.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\bin\Debug\net8.0\03d.SoftUniParanthesis.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\bin\Debug\net8.0\03d.SoftUniParanthesis.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\bin\Debug\net8.0\03d.SoftUniParanthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\bin\Debug\net8.0\03d.SoftUniParanthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\refint\03d.SoftUniParanthesis.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\03d.SoftUniParanthesis.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03d.SoftUniParanthesis\obj\Debug\net8.0\ref\03d.SoftUniParanthesis.dll

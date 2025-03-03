@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\bin\Debug\net8.0\06.StakTravelException.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\bin\Debug\net8.0\06.StakTravelException.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\bin\Debug\net8.0\06.StakTravelException.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\bin\Debug\net8.0\06.StakTravelException.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\bin\Debug\net8.0\06.StakTravelException.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\refint\06.StakTravelException.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\06.StakTravelException.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\NakovBook\NakovBookEx1\06.StakTravelException\obj\Debug\net8.0\ref\06.StakTravelException.dll

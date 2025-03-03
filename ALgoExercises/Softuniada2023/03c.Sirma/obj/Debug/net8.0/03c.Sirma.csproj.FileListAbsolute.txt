@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\bin\Debug\net8.0\03c.Sirma.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\bin\Debug\net8.0\03c.Sirma.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\bin\Debug\net8.0\03c.Sirma.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\bin\Debug\net8.0\03c.Sirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\bin\Debug\net8.0\03c.Sirma.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\refint\03c.Sirma.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\03c.Sirma.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\03c.Sirma\obj\Debug\net8.0\ref\03c.Sirma.dll

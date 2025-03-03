@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "03c.Sirma/1.0.0": {
+        "runtime": {
+          "03c.Sirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03c.Sirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

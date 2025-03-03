@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\bin\Debug\net8.0\01.List.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\bin\Debug\net8.0\01.List.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\bin\Debug\net8.0\01.List.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\bin\Debug\net8.0\01.List.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\bin\Debug\net8.0\01.List.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\refint\01.List.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\01.List.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\DataStructures\DataStructureIplementations\DataStructureIplementations\obj\Debug\net8.0\ref\01.List.dll

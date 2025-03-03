@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71627775-E026-466D-9613-20DAE8C9DD8A}|06\\06..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71627775-E026-466D-9613-20DAE8C9DD8A}|06\\06..csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9A608B-3EDD-4E71-A818-9EE9DDBD8501}|06a\\06a..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\06a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9A608B-3EDD-4E71-A818-9EE9DDBD8501}|06a\\06a..csproj|solutionrelative:06a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4B2C8-1D21-4167-A0D3-7A8AFE3E5AB5}|05\u0430\\05\u0430..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\05\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4B2C8-1D21-4167-A0D3-7A8AFE3E5AB5}|05\u0430\\05\u0430..csproj|solutionrelative:05\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B01A80B-F8CF-4A77-B24E-BA80F2DE0BC6}|05\\05..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B01A80B-F8CF-4A77-B24E-BA80F2DE0BC6}|05\\05..csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2F01A1-ECFD-4CF0-93BA-97F6A37A5704}|04\\04..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2F01A1-ECFD-4CF0-93BA-97F6A37A5704}|04\\04..csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA79C4D-534A-41D4-89EC-EB54D0FCF503}|03e.CircularTruck\\03e.CircularTruck.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03e.circulartruck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA79C4D-534A-41D4-89EC-EB54D0FCF503}|03e.CircularTruck\\03e.CircularTruck.csproj|solutionrelative:03e.circulartruck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D705A2B7-272C-4758-9763-4BC2E2F8E927}|03d.SoftUniParanthesis\\03d.SoftUniParanthesis.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03d.softuniparanthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D705A2B7-272C-4758-9763-4BC2E2F8E927}|03d.SoftUniParanthesis\\03d.SoftUniParanthesis.csproj|solutionrelative:03d.softuniparanthesis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00351B91-F6B7-40DD-AC16-29F22660B019}|03b.ParantesisSirma\\03b.ParantesisSirma.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03b.parantesissirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00351B91-F6B7-40DD-AC16-29F22660B019}|03b.ParantesisSirma\\03b.ParantesisSirma.csproj|solutionrelative:03b.parantesissirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C77219-F6CF-4F88-A727-6B1A64885AC5}|03c.Sirma\\03c.Sirma.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03c.sirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C77219-F6CF-4F88-A727-6B1A64885AC5}|03c.Sirma\\03c.Sirma.csproj|solutionrelative:03c.sirma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE21204-83C1-4F8B-BEB7-ED2E3DB01412}|03\\03..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE21204-83C1-4F8B-BEB7-ED2E3DB01412}|03\\03..csproj|solutionrelative:03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3DCE56-718A-4045-9A1B-A5DB0EEC6085}|03a\\03a..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\03a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3DCE56-718A-4045-9A1B-A5DB0EEC6085}|03a\\03a..csproj|solutionrelative:03a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE302DC1-1582-4572-8A75-4928FF122F82}|02\\02..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE302DC1-1582-4572-8A75-4928FF122F82}|02\\02..csproj|solutionrelative:02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B71C5713-EC81-4002-B9DB-F85C4D79A701}|01\\01..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B71C5713-EC81-4002-B9DB-F85C4D79A701}|01\\01..csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213F7B9F-53C8-4B50-9B43-1E49A6D67474}|3f.Crossroads\\03f.Crossroads.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\softuniada2023\\3f.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213F7B9F-53C8-4B50-9B43-1E49A6D67474}|3f.Crossroads\\03f.Crossroads.csproj|solutionrelative:3f.crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\06a\\Program.cs",
+              "RelativeDocumentMoniker": "06a\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\06a\\Program.cs",
+              "RelativeToolTip": "06a\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:22.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\06\\Program.cs",
+              "RelativeDocumentMoniker": "06\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\06\\Program.cs",
+              "RelativeToolTip": "06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:48:16.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\05\u0430\\Program.cs",
+              "RelativeDocumentMoniker": "05\u0430\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\05\u0430\\Program.cs",
+              "RelativeToolTip": "05\u0430\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:36:05.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:51:48.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:33:29.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\3f.Crossroads\\Program.cs",
+              "RelativeDocumentMoniker": "3f.Crossroads\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\3f.Crossroads\\Program.cs",
+              "RelativeToolTip": "3f.Crossroads\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:08:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03e.CircularTruck\\Program.cs",
+              "RelativeDocumentMoniker": "03e.CircularTruck\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03e.CircularTruck\\Program.cs",
+              "RelativeToolTip": "03e.CircularTruck\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:41:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03d.SoftUniParanthesis\\Program.cs",
+              "RelativeDocumentMoniker": "03d.SoftUniParanthesis\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03d.SoftUniParanthesis\\Program.cs",
+              "RelativeToolTip": "03d.SoftUniParanthesis\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:37:15.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03c.Sirma\\Program.cs",
+              "RelativeDocumentMoniker": "03c.Sirma\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03c.Sirma\\Program.cs",
+              "RelativeToolTip": "03c.Sirma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:31:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03b.ParantesisSirma\\Program.cs",
+              "RelativeDocumentMoniker": "03b.ParantesisSirma\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03b.ParantesisSirma\\Program.cs",
+              "RelativeToolTip": "03b.ParantesisSirma\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:04:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03a\\Program.cs",
+              "RelativeDocumentMoniker": "03a\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03a\\Program.cs",
+              "RelativeToolTip": "03a\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:22:39.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03\\Program.cs",
+              "RelativeDocumentMoniker": "03\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\03\\Program.cs",
+              "RelativeToolTip": "03\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:35:25.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\02\\Program.cs",
+              "RelativeDocumentMoniker": "02\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\02\\Program.cs",
+              "RelativeToolTip": "02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:27:37.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\01\\Program.cs",
+              "RelativeDocumentMoniker": "01\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\Softuniada2023\\01\\Program.cs",
+              "RelativeToolTip": "01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:58:57.33Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

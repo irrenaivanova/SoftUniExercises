@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Strings2", "03.Strings2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Classes", "04.Classes\04.Classes.csproj", "{2D7E7910-177E-4C61-BB98-B8739F1F4A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.InOut", "05.InOut\05.InOut.csproj", "{8E3184F9-8FD3-43B1-84BA-D63943DBA931}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.InOut", "05.InOut\05.InOut.csproj", "{8E3184F9-8FD3-43B1-84BA-D63943DBA931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StakTravelException", "06.StakTravelException\06.StakTravelException.csproj", "{7BAFF087-5520-4A86-937C-E8512FC505E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8E3184F9-8FD3-43B1-84BA-D63943DBA931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3184F9-8FD3-43B1-84BA-D63943DBA931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3184F9-8FD3-43B1-84BA-D63943DBA931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAFF087-5520-4A86-937C-E8512FC505E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAFF087-5520-4A86-937C-E8512FC505E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAFF087-5520-4A86-937C-E8512FC505E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAFF087-5520-4A86-937C-E8512FC505E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
