@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\bin\Debug\net8.0\01a.ArrayRotation.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\bin\Debug\net8.0\01a.ArrayRotation.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\bin\Debug\net8.0\01a.ArrayRotation.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\bin\Debug\net8.0\01a.ArrayRotation.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\bin\Debug\net8.0\01a.ArrayRotation.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\refint\01a.ArrayRotation.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\01a.ArrayRotation.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01a.ArrayRotation\obj\Debug\net8.0\ref\01a.ArrayRotation.dll

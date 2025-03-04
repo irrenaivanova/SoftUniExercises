@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\bin\Debug\net8.0\06f.KaminoFacorySoftUni.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\bin\Debug\net8.0\06f.KaminoFacorySoftUni.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\bin\Debug\net8.0\06f.KaminoFacorySoftUni.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\bin\Debug\net8.0\06f.KaminoFacorySoftUni.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\bin\Debug\net8.0\06f.KaminoFacorySoftUni.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\refint\06f.KaminoFacorySoftUni.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\06f.KaminoFacorySoftUni.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06f.KaminoFacorySoftUni\obj\Debug\net8.0\ref\06f.KaminoFacorySoftUni.dll

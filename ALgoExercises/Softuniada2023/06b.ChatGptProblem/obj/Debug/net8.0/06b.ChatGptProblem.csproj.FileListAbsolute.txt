@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\bin\Debug\net8.0\06b.ChatGptProblem.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\bin\Debug\net8.0\06b.ChatGptProblem.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\bin\Debug\net8.0\06b.ChatGptProblem.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\bin\Debug\net8.0\06b.ChatGptProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\bin\Debug\net8.0\06b.ChatGptProblem.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\refint\06b.ChatGptProblem.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\06b.ChatGptProblem.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06b.ChatGptProblem\obj\Debug\net8.0\ref\06b.ChatGptProblem.dll

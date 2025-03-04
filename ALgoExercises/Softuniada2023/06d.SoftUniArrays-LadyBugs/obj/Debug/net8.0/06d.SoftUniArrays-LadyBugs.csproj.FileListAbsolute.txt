@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\bin\Debug\net8.0\06d.SoftUniArrays-LadyBugs.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\bin\Debug\net8.0\06d.SoftUniArrays-LadyBugs.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\bin\Debug\net8.0\06d.SoftUniArrays-LadyBugs.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\bin\Debug\net8.0\06d.SoftUniArrays-LadyBugs.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\bin\Debug\net8.0\06d.SoftUniArrays-LadyBugs.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\refint\06d.SoftUniArrays-LadyBugs.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\06d.SoftUniArrays-LadyBugs.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\06d.SoftUniArrays-LadyBugs\obj\Debug\net8.0\ref\06d.SoftUniArrays-LadyBugs.dll

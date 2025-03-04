@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\bin\Debug\net8.0\03f.Crossroads.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\bin\Debug\net8.0\03f.Crossroads.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\bin\Debug\net8.0\03f.Crossroads.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\bin\Debug\net8.0\03f.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\bin\Debug\net8.0\03f.Crossroads.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\refint\03f.Crossroads.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\03f.Crossroads.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\3f.Crossroads\obj\Debug\net8.0\ref\03f.Crossroads.dll

@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\bin\Debug\net8.0\01b.MaxSequenceOfEqualElements.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\bin\Debug\net8.0\01b.MaxSequenceOfEqualElements.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\bin\Debug\net8.0\01b.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\bin\Debug\net8.0\01b.MaxSequenceOfEqualElements.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\bin\Debug\net8.0\01b.MaxSequenceOfEqualElements.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\refint\01b.MaxSequenceOfEqualElements.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\01b.MaxSequenceOfEqualElements.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\Softuniada2023\01b.MaxSequenceOfEqualElements\obj\Debug\net8.0\ref\01b.MaxSequenceOfEqualElements.dll
