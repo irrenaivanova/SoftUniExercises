@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "MyWebApiApp.Controllers.MyController",
+    "Method": "CountCharacters",
+    "RelativePath": "api/My/count",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "MyWebApiApp.Controllers.CountModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyWebApiApp.Controllers.MyController",
+    "Method": "CountCharacters2",
+    "RelativePath": "api/My/count2",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyWebApiApp.Controllers.MyController",
+    "Method": "LongestSubsequence",
+    "RelativePath": "api/My/longest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyWebApiApp.Controllers.MyController",
+    "Method": "LongestSubsequenceBest",
+    "RelativePath": "api/My/longestBest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyWebApiApp.Controllers.MyController",
+    "Method": "PrimeNumbers",
+    "RelativePath": "api/My/primeNumbers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "MyWebApiApp.Models.RangePrimeNumbers",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyWebApiApp.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MyWebApiApp.WeatherForecast, MyWebApiApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
