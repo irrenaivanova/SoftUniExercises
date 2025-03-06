@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\bin\Debug\net8.0\05a..exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\bin\Debug\net8.0\05a..deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\bin\Debug\net8.0\05a..runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\bin\Debug\net8.0\05a..dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\bin\Debug\net8.0\05a..pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\refint\05a..dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\05a..genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\05a\obj\Debug\net8.0\ref\05a..dll

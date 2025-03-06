@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\bin\Debug\net8.0\10.PascalTriangle.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\bin\Debug\net8.0\10.PascalTriangle.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\bin\Debug\net8.0\10.PascalTriangle.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\bin\Debug\net8.0\10.PascalTriangle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\bin\Debug\net8.0\10.PascalTriangle.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\refint\10.PascalTriangle.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\10.PascalTriangle.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\10.PascalTriangle\obj\Debug\net8.0\ref\10.PascalTriangle.dll

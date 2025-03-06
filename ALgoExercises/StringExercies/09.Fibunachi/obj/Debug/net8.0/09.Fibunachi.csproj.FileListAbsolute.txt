@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\bin\Debug\net8.0\09.Fibunachi.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\bin\Debug\net8.0\09.Fibunachi.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\bin\Debug\net8.0\09.Fibunachi.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\bin\Debug\net8.0\09.Fibunachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\bin\Debug\net8.0\09.Fibunachi.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\refint\09.Fibunachi.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\09.Fibunachi.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\StringExercies\09.Fibunachi\obj\Debug\net8.0\ref\09.Fibunachi.dll

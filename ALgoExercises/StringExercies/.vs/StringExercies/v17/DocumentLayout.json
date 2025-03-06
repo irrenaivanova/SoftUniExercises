@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6EAFFE-C8F1-452C-A3A8-6922DCFF85A9}|10.PascalTriangle\\10.PascalTriangle.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\10.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6EAFFE-C8F1-452C-A3A8-6922DCFF85A9}|10.PascalTriangle\\10.PascalTriangle.csproj|solutionrelative:10.pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47F10D0-44CC-4FE2-B5DD-71366B96D6B3}|09.Fibunachi\\09.Fibunachi.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\09.fibunachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47F10D0-44CC-4FE2-B5DD-71366B96D6B3}|09.Fibunachi\\09.Fibunachi.csproj|solutionrelative:09.fibunachi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{149EDB0E-D241-4348-A372-279D623132E9}|09a.Fibunachi2\\09a.Fibunachi2.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\09a.fibunachi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{149EDB0E-D241-4348-A372-279D623132E9}|09a.Fibunachi2\\09a.Fibunachi2.csproj|solutionrelative:09a.fibunachi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CFC527-59EF-4B5E-98C6-D156CC5C5094}|08\\08..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CFC527-59EF-4B5E-98C6-D156CC5C5094}|08\\08..csproj|solutionrelative:08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B353694C-DDDE-4267-8464-CDA347EB2041}|07\\07..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B353694C-DDDE-4267-8464-CDA347EB2041}|07\\07..csproj|solutionrelative:07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAF3294-CF7A-4486-A789-F05F4892F3EC}|06\\06..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAF3294-CF7A-4486-A789-F05F4892F3EC}|06\\06..csproj|solutionrelative:06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA5068A-A64C-4557-B566-5D7814BA5599}|05a\\05a..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\05a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA5068A-A64C-4557-B566-5D7814BA5599}|05a\\05a..csproj|solutionrelative:05a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C44C4266-A881-4781-BBB3-BB87AE421BAE}|05\\05..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44C4266-A881-4781-BBB3-BB87AE421BAE}|05\\05..csproj|solutionrelative:05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61761325-B453-4A42-9970-EFBDD8BA3623}|04\\04..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61761325-B453-4A42-9970-EFBDD8BA3623}|04\\04..csproj|solutionrelative:04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FF0EF4-5439-4612-9BF0-B84701D0BA01}|03\\03..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FF0EF4-5439-4612-9BF0-B84701D0BA01}|03\\03..csproj|solutionrelative:03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E11D0D9-523B-4D7F-AB6D-6C204E7C849E}|02\\02..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E11D0D9-523B-4D7F-AB6D-6C204E7C849E}|02\\02..csproj|solutionrelative:02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00D5537-1C87-4099-A1AF-8E2F1B321EDE}|01\\01..csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\algoexercises\\stringexercies\\01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00D5537-1C87-4099-A1AF-8E2F1B321EDE}|01\\01..csproj|solutionrelative:01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\10.PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "10.PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\10.PascalTriangle\\Program.cs",
+              "RelativeToolTip": "10.PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:28:09.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\09a.Fibunachi2\\Program.cs",
+              "RelativeDocumentMoniker": "09a.Fibunachi2\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\09a.Fibunachi2\\Program.cs",
+              "RelativeToolTip": "09a.Fibunachi2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:22:02.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\09.Fibunachi\\Program.cs",
+              "RelativeDocumentMoniker": "09.Fibunachi\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\09.Fibunachi\\Program.cs",
+              "RelativeToolTip": "09.Fibunachi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:07:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\08\\Program.cs",
+              "RelativeDocumentMoniker": "08\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\08\\Program.cs",
+              "RelativeToolTip": "08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:24:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\07\\Program.cs",
+              "RelativeDocumentMoniker": "07\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\07\\Program.cs",
+              "RelativeToolTip": "07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:04:31.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\06\\Program.cs",
+              "RelativeDocumentMoniker": "06\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\06\\Program.cs",
+              "RelativeToolTip": "06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:00:30.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\05a\\Program.cs",
+              "RelativeDocumentMoniker": "05a\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\05a\\Program.cs",
+              "RelativeToolTip": "05a\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:46:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\05\\Program.cs",
+              "RelativeDocumentMoniker": "05\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\05\\Program.cs",
+              "RelativeToolTip": "05\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:31:42.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\04\\Program.cs",
+              "RelativeDocumentMoniker": "04\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\04\\Program.cs",
+              "RelativeToolTip": "04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:27:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\03\\Program.cs",
+              "RelativeDocumentMoniker": "03\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\03\\Program.cs",
+              "RelativeToolTip": "03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:17:34.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\02\\Program.cs",
+              "RelativeDocumentMoniker": "02\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\02\\Program.cs",
+              "RelativeToolTip": "02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:04:55.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\01\\Program.cs",
+              "RelativeDocumentMoniker": "01\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ALgoExercises\\StringExercies\\01\\Program.cs",
+              "RelativeToolTip": "01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:46:00.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\data\\gamezonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\data\\gamezonedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\migrations\\20250305140030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\migrations\\20250305140030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\gamezone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\gamezone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\models\\gamergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\gamergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\entityconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|c:\\users\\schhh\\desktop\\softuni\\softuniexercises\\asp.net fundamentals\\gmezone\\gamezone-skeleton\\gamezone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7291DD2E-913C-45B2-9E86-5DE5C1B88957}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameZone\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameZone\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:33:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250305140030_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Migrations\\20250305140030_Initial.cs",
+              "RelativeDocumentMoniker": "GameZone\\Migrations\\20250305140030_Initial.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Migrations\\20250305140030_Initial.cs",
+              "RelativeToolTip": "GameZone\\Migrations\\20250305140030_Initial.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwFoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:00:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamerGame.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\GamerGame.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\GamerGame.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\GamerGame.cs",
+              "RelativeToolTip": "GameZone\\Models\\GamerGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:31:24.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\Genre.cs",
+              "RelativeToolTip": "GameZone\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:00:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityConstants.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\EntityConstants.cs",
+              "RelativeDocumentMoniker": "GameZone\\EntityConstants.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\EntityConstants.cs",
+              "RelativeToolTip": "GameZone\\EntityConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:33:41.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameZone\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Models\\Game.cs",
+              "RelativeToolTip": "GameZone\\Models\\Game.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:31:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T12:22:08.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameZoneDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Data\\GameZoneDbContext.cs",
+              "RelativeDocumentMoniker": "GameZone\\Data\\GameZoneDbContext.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Data\\GameZoneDbContext.cs",
+              "RelativeToolTip": "GameZone\\Data\\GameZoneDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:18:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GameZone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "GameZone\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T11:30:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameZone",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\GameZone.csproj",
+              "RelativeDocumentMoniker": "GameZone\\GameZone.csproj",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\GameZone.csproj*",
+              "RelativeToolTip": "GameZone\\GameZone.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T11:14:40.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\appsettings.json",
+              "RelativeDocumentMoniker": "GameZone\\appsettings.json",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\appsettings.json",
+              "RelativeToolTip": "GameZone\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T11:32:46.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Program.cs",
+              "RelativeDocumentMoniker": "GameZone\\Program.cs",
+              "ToolTip": "C:\\Users\\schhh\\Desktop\\SoftUni\\SoftUniExercises\\ASP.NET Fundamentals\\GmeZone\\GameZone-Skeleton\\GameZone\\Program.cs",
+              "RelativeToolTip": "GameZone\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:47:15.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
