@@ -1,0 +1,15 @@
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\bin\Debug\net8.0\SortingAlgos.exe
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\bin\Debug\net8.0\SortingAlgos.deps.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\bin\Debug\net8.0\SortingAlgos.runtimeconfig.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\bin\Debug\net8.0\SortingAlgos.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\bin\Debug\net8.0\SortingAlgos.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.AssemblyInfoInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.AssemblyInfo.cs
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.csproj.CoreCompileInputs.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.sourcelink.json
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\refint\SortingAlgos.dll
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.pdb
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\SortingAlgos.genruntimeconfig.cache
+C:\Users\schhh\Desktop\SoftUni\SoftUniExercises\ALgoExercises\SortingAlgos\SortingAlgos\obj\Debug\net8.0\ref\SortingAlgos.dll

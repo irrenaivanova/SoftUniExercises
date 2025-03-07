@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "WebApi2.Controllers.AlgoController",
+    "Method": "AllSubSetSums",
+    "RelativePath": "api/Algo/AllSubSetEqualNumber",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "WebApi2.Models.InputModelNumber",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi2.Controllers.AlgoController",
+    "Method": "AllSubSetSums",
+    "RelativePath": "api/Algo/AllSubSetSum",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Int32[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi2.Controllers.AlgoController",
+    "Method": "DividingPresents",
+    "RelativePath": "api/Algo/DividingPresents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numbers",
+        "Type": "System.Int32[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
